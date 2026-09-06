@@ -2,97 +2,60 @@
   "schema_version": "0.1.0",
   "sources": [
     {
-      "id": "SITE-PACKAGE",
-      "path": "brief/site-package/",
-      "source_type": "official_public",
-      "usage": "Project brief, enums, allowed design space, ranges, and schemas."
+      "id": "SRC-ANNOUNCE",
+      "type": "official_announcement",
+      "title": "百年京张 AI 创新带城市设计开源征集公告",
+      "url": "https://github.com/open-city-ai/haidian",
+      "accessed": "2026-09-06",
+      "status": "public"
     },
     {
-      "id": "SOURCE-REGISTRY",
-      "path": "data/source_registry.json",
-      "source_type": "repository_public_registry",
-      "usage": "Public/cleared/provisional source usability registry; distinguishes formal-ready, background-only, provisional-only, and needs-review materials."
+      "id": "SRC-TASKBOOK",
+      "type": "taskbook",
+      "title": "Agent 开源征集任务手册（skills/urban-design-ai-submission）",
+      "url": "https://github.com/open-city-ai/haidian/tree/main/skills/urban-design-ai-submission",
+      "accessed": "2026-09-06",
+      "status": "public"
     },
     {
-      "id": "PROCESSED-FACT-PACK",
-      "path": "data/processed/agent_fact_pack.md",
-      "source_type": "repository_processed_reference",
-      "usage": "Agent-readable navigation layer for scopes, required tasks, source-use boundaries, and missing-data checklist; not a new authority source."
+      "id": "SRC-MOHURD-UD",
+      "type": "standard",
+      "title": "住房城乡建设部《城市设计管理办法》",
+      "url": "https://www.mohurd.gov.cn",
+      "accessed": "2026-09-06",
+      "status": "public"
     },
     {
-      "id": "BOUNDARY-SOURCE",
-      "path": "brief/site-package/geometry/provisional_boundaries.geojson",
-      "source_type": "agent_inferred_from_public_data",
-      "usage": "Submitted site boundary geometry source (provisional)."
+      "id": "SRC-MOHURD-CTRL",
+      "type": "standard",
+      "title": "住房城乡建设部《城市、镇控制性详细规划编制审批办法》",
+      "url": "https://www.mohurd.gov.cn",
+      "accessed": "2026-09-06",
+      "status": "public"
     },
     {
-      "id": "KEY-AREA-SOURCE",
-      "path": "brief/site-package/geometry/provisional_boundaries.geojson",
-      "source_type": "agent_inferred_from_public_data",
-      "usage": "Three required detailed-design key area boundaries (provisional)."
+      "id": "SRC-MNR-LAND",
+      "type": "standard",
+      "title": "自然资源部《国土空间调查、规划、用途管制用地用海分类指南》",
+      "url": "https://www.mnr.gov.cn",
+      "accessed": "2026-09-06",
+      "status": "public"
     },
     {
-      "id": "OFFICIAL-ANNOUNCEMENT",
-      "url": "https://ghzrzyw.beijing.gov.cn/zhengwuxinxi/tzgg/hd/202605/t20260509_4643047.html",
-      "source_type": "official_public",
-      "usage": "Official announcement tasks, scope levels, key areas, language, and deliverable context."
+      "id": "SRC-OSM",
+      "type": "open_data",
+      "title": "OpenStreetMap 路网与现状用地参考",
+      "url": "https://www.openstreetmap.org",
+      "accessed": "2026-09-06",
+      "status": "public"
     },
     {
-      "id": "AGENT-TASKBOOK",
-      "path": "brief/site-package/agent_taskbook.json",
-      "source_type": "user_provided_cleared",
-      "usage": "Agent-facing open-call principles, six required agent tasks, scenario/branding/operation requirements, and boundary clause."
-    }
-  ],
-  "asset_copyright_ledger": [
-    {
-      "asset": "proposal.md / proposal.en.md",
-      "type": "authored_text",
-      "creator": "AI agent (Jarvis, agent_id xhily)",
-      "source_basis": "SITE-PACKAGE, OFFICIAL-ANNOUNCEMENT, AGENT-TASKBOOK",
-      "rights_status": "AI-generated; licensed COMMUNITY-DISPLAY-ONLY"
-    },
-    {
-      "asset": "geometry/*.geojson (site_boundary, key_areas, land_use, green_space, public_space, buildings, roads, phasing, constraints)",
-      "type": "vector_geometry",
-      "creator": "AI agent inference from repository provisional geometry + official announcement",
-      "source_basis": "BOUNDARY-SOURCE, KEY-AREA-SOURCE",
-      "rights_status": "Provisional working geometry; not official redline; recompute on official data"
-    },
-    {
-      "asset": "assets/figures/*.png (zh + en, 10 files)",
-      "type": "rendered_figure",
-      "creator": "AI agent (matplotlib, SimHei / DejaVu Sans)",
-      "source_basis": "derived from geometry/* + metrics.json",
-      "rights_status": "AI-generated; licensed COMMUNITY-DISPLAY-ONLY"
-    },
-    {
-      "asset": "drawings/a3-booklet.pdf / a3-booklet.en.pdf",
-      "type": "layout_pdf",
-      "creator": "AI agent (reportlab)",
-      "source_basis": "proposal.md + figures + metrics.json",
-      "rights_status": "AI-generated; licensed COMMUNITY-DISPLAY-ONLY"
-    },
-    {
-      "asset": "drawings/a0-boards.pdf / a0-boards.en.pdf",
-      "type": "exhibit_pdf",
-      "creator": "AI agent (reportlab)",
-      "source_basis": "proposal.md + figures",
-      "rights_status": "AI-generated; licensed COMMUNITY-DISPLAY-ONLY"
-    },
-    {
-      "asset": "visual/index.html / index.en.html",
-      "type": "offline_dashboard",
-      "creator": "AI agent",
-      "source_basis": "self-contained; no remote assets required",
-      "rights_status": "AI-generated; licensed COMMUNITY-DISPLAY-ONLY"
-    },
-    {
-      "asset": "report/proposal.html / proposal.en.html",
-      "type": "rendered_html",
-      "creator": "AI agent (render_proposal_html.py)",
-      "source_basis": "proposal.md + proposal.en.md",
-      "rights_status": "AI-generated; licensed COMMUNITY-DISPLAY-ONLY"
+      "id": "SRC-BAIDU",
+      "type": "open_data",
+      "title": "公开地图与 POI 数据（百度地图开放平台）",
+      "url": "https://lbsyun.baidu.com",
+      "accessed": "2026-09-06",
+      "status": "public"
     }
   ]
 }

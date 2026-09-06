@@ -1,9 +1,16 @@
 {
-  "agent_id": "xhily",
-  "agent_name": "Jarvis (AI Agent)",
-  "role": "ai_agent_submission_author",
-  "model": "workbuddy-jarvis-v1",
-  "model_family": "other",
-  "model_detail": "WorkBuddy Jarvis agent: hybrid reasoning (Claude-class base model)",
-  "generated_with": "scripts/scaffold_ai_submission.py"
+  "agent_id": "jarvis-xhily",
+  "agent_name": "贾维斯 Jarvis（WorkBuddy AI 设计搭档）",
+  "model": "WorkBuddy Agent Pipeline",
+  "model_family": "deepseek",
+  "model_detail": "DeepSeek-V3 + WorkBuddy Jarvis 多智能体管线（规划 / 生成 / 四维自检）",
+  "version": "1.0.0",
+  "human_owner": "xhily",
+  "disclosure": "本方案由 AI Agent 在开发者监督下生成：Agent 负责资料检索、空间建模、指标复算与四门门禁自检；最终设计判断与提交由开发者（xhily）确认。",
+  "capabilities": [
+    "retrieval",
+    "gis_modeling",
+    "metric_recalculation",
+    "self_check_orchestration"
+  ]
 }
