@@ -1,0 +1,174 @@
+{
+  "schema_version": "0.1.0",
+  "units": {
+    "length": "m",
+    "area": "sqm"
+  },
+  "metrics": {
+    "site_area_sqm": {
+      "status": "known",
+      "value": 11412825.386,
+      "unit": "sqm",
+      "source_files": [
+        "geometry/site_boundary.geojson"
+      ],
+      "formula": "polygon_area(projected site_boundary, EPSG:4548)",
+      "confidence": "medium",
+      "assumptions": [
+        "Provisional boundary; recalculate with official geometry when available."
+      ]
+    },
+    "building_footprint_area_sqm": {
+      "status": "known",
+      "value": 2646088.491,
+      "unit": "sqm",
+      "source_files": [
+        "geometry/buildings.geojson"
+      ],
+      "formula": "sum(polygon_area(building_footprints))",
+      "confidence": "medium",
+      "assumptions": []
+    },
+    "green_ratio": {
+      "status": "known",
+      "value": 0.124677,
+      "unit": "ratio",
+      "source_files": [
+        "geometry/green_space.geojson",
+        "geometry/site_boundary.geojson"
+      ],
+      "formula": "green_space_area_sqm / site_area_sqm",
+      "confidence": "medium",
+      "assumptions": []
+    },
+    "public_space_ratio": {
+      "status": "known",
+      "value": 0.103608,
+      "unit": "ratio",
+      "source_files": [
+        "geometry/public_space.geojson",
+        "geometry/site_boundary.geojson"
+      ],
+      "formula": "public_space_area_sqm / site_area_sqm",
+      "confidence": "medium",
+      "assumptions": []
+    },
+    "key_area_count": {
+      "status": "known",
+      "value": 3,
+      "unit": "count",
+      "source_files": [
+        "geometry/key_areas.geojson"
+      ],
+      "formula": "count(key_detailed_design_areas)",
+      "confidence": "high",
+      "assumptions": []
+    },
+    "floor_area_ratio": {
+      "status": "unknown",
+      "value": null,
+      "unit": "ratio",
+      "source_files": [
+        "brief/site-package/ranges/planning_limits.json"
+      ],
+      "formula": "total_floor_area_sqm / official_site_area_sqm",
+      "confidence": "unknown",
+      "assumptions": [],
+      "reason": "Approved FAR and official site boundary are not in the public site package (planning_limits.json status=missing)."
+    },
+    "building_height_m": {
+      "status": "unknown",
+      "value": null,
+      "unit": "m",
+      "source_files": [
+        "brief/site-package/ranges/planning_limits.json"
+      ],
+      "formula": "approved height controls",
+      "confidence": "unknown",
+      "assumptions": [],
+      "reason": "Height controls missing from public site package."
+    },
+    "building_density": {
+      "status": "unknown",
+      "value": null,
+      "unit": "ratio",
+      "source_files": [
+        "brief/site-package/ranges/planning_limits.json"
+      ],
+      "formula": "building_footprint_area_sqm / site_area_sqm",
+      "confidence": "unknown",
+      "assumptions": [],
+      "reason": "Building density control missing from public site package."
+    },
+    "green_ratio_target": {
+      "status": "known",
+      "value": 0.124677,
+      "unit": "ratio",
+      "source_files": [
+        "geometry/green_space.geojson"
+      ],
+      "formula": "achieved green ratio from design layer",
+      "confidence": "medium",
+      "assumptions": []
+    }
+  },
+  "pilot_kpi_targets": {
+    "note": "Conceptual KPI targets for the pilot portfolio in proposal.md § deepening section 3. All quantitative items are concept-level and must be finalized after official control conditions and operating entities are confirmed. Not commitments.",
+    "pilots": [
+      {
+        "id": "P-01",
+        "name": "智脉绿廊示范段（北段约0.8km）",
+        "kpi": {
+          "slow_traffic_continuity": ">=0.95",
+          "public_space_500m_coverage_uplift": "positive",
+          "green_encroachment": "0"
+        }
+      },
+      {
+        "id": "P-02",
+        "name": "众智园全栈自主底座",
+        "kpi": {
+          "public_compute_pflops": "TBD",
+          "open_datasets": ">=30",
+          "developers": ">=2000"
+        }
+      },
+      {
+        "id": "P-03",
+        "name": "大钟寺自动驾驶仿真测试路段",
+        "kpi": {
+          "test_mileage_km": ">=100000",
+          "incidents": "0",
+          "safety_driver_rate": "1.0"
+        }
+      },
+      {
+        "id": "P-04",
+        "name": "AI原点社区生活实验室",
+        "kpi": {
+          "households_covered": ">=5000",
+          "satisfaction": ">=0.85",
+          "accessibility_nodes_full_coverage": true
+        }
+      },
+      {
+        "id": "P-05",
+        "name": "数字叙事塔与荣誉体系",
+        "kpi": {
+          "annual_visitors": ">=500000",
+          "co_created_works": ">=100",
+          "honor_wall_update_freq": "quarterly"
+        }
+      },
+      {
+        "id": "P-06",
+        "name": "算法治理沙盒走廊",
+        "kpi": {
+          "scenarios_connected": ">=8",
+          "human_review_rate": "1.0",
+          "rollback_rate": "1.0"
+        }
+      }
+    ]
+  }
+}
