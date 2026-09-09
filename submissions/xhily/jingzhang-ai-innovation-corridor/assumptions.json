@@ -2,58 +2,40 @@
   "schema_version": "0.1.0",
   "assumptions": [
     {
+      "id": "A-SITE-001",
+      "category": "boundary",
+      "confidence": "low",
+      "assumption": "总体设计范围（约 11.41 km²）采用 agent_inferred_from_public_data 临时边界，依据公开征集说明中‘中关村—五道口—知春路—大钟寺’AI 创新走廊走向推断，非官方红线。"
+    },
+    {
       "id": "A-CONTROLS-001",
-      "status": "pending_professional_confirmation",
-      "statement": "Detailed regulatory controls, road redlines, ownership, municipal utilities, and engineering constraints must be confirmed from official attachments before statutory use.",
-      "impact": "The package can be reviewed as a formal AI submission only for provided official boundaries and submitted design layers; statutory controls still need professional confirmation."
+      "category": "regulatory-control",
+      "confidence": "low",
+      "assumption": "官方控制性详细规划红线、规划条件与法定用地规划尚未公开；本方案未将其作为约束，待官方几何提供后复算面积与指标。"
     },
     {
-      "id": "A-BOUNDARY-001",
-      "status": "provisional_precision",
-      "statement": "The submitted site boundary (PROV-SITE-001) is a provisional rough boundary derived from the repository provisional_boundaries.geojson; its area and all derived ratios are provisional and must be recomputed after official SITE_BOUNDARY is published.",
-      "impact": "site_area_sqm and all area-relative metrics are provisional; replacing the boundary requires re-running scaffold, self-check, figures, and HTML."
-    },
-    {
-      "id": "A-KEYAREA-001",
-      "status": "provisional_precision",
-      "statement": "The three key-area polygons (PROV-KEY-001/002/003) are provisional and not official redlines; their extents, key_area_count, and related scenario locations are provisional.",
-      "impact": "Key-area detailed design, scenario placement, and landmark siting are concept suggestions pending official key-area geometry."
-    },
-    {
-      "id": "A-FAR-001",
-      "status": "unknown_pending_control",
-      "statement": "Floor area ratio, building height, building density, setbacks, road redlines, and facility standards are unknown because no official regulatory-plan conditions are available.",
-      "impact": "All intensity and control metrics use status=unknown and are excluded from formal scoring evidence; they become computable only after official conditions."
-    },
-    {
-      "id": "A-OWNERSHIP-001",
-      "status": "unknown_pending_survey",
-      "statement": "Building retain/renovate/demolish classification and ground-floor tenancy depend on ownership, existing-condition survey, and campus boundaries that are not yet provided.",
-      "impact": "Renewal project list and building-scale conclusions are concept suggestions; JZ-03/JZ-04 carry ownership-uncertainty risk."
-    },
-    {
-      "id": "A-MUNICIPAL-001",
-      "status": "unknown_pending_engineering",
-      "statement": "Pipeline, energy, drainage, flood-control, and fire-engineering data for the overall-design scope are missing and listed as formal deepening prerequisites.",
-      "impact": "Transport/municipal proposals (section 8) and JZ-04/JZ-05 carry municipal-engineering risk and cannot be treated as engineering conclusions."
-    },
-    {
-      "id": "A-HERITAGE-001",
-      "status": "constraint_active",
-      "statement": "The heritage constraint (CONSTRAINT-HERITAGE, Qinghuayuan Station and railway corridor) and the rail constraint (CONSTRAINT-RAIL) actively bound any intervention, display, or public-space move.",
-      "impact": "Landmarks, heritage-park slow-mobility moves, and the edge-compute node must respect heritage and rail buffers; proposals are concept suggestions, not engineering or conservation conclusions."
+      "id": "A-KEY-001",
+      "category": "boundary",
+      "confidence": "medium",
+      "assumption": "三个重点片区（众智园 AI 加速区、北京 AI 原点社区、大钟寺 AI 产业簇群）范围依据公开资料命名与定位推断，面积对齐征集任务书给定的 192.1/104.3/72.0 ha。"
     },
     {
       "id": "A-DATA-001",
-      "status": "design_principle",
-      "statement": "All AI scenarios use aggregated or anonymous data only, with edge processing and no individual trajectory or face recognition; personal profiling for commercial recommendation is prohibited.",
-      "impact": "Scenario cards, test-validation scenarios, and the accessibility design operate under data-minimization and human-review boundaries; this is a governance principle, not a verified system."
+      "category": "data",
+      "confidence": "low",
+      "assumption": "人口、就业岗位、现状建筑量等社会经济数据未公开，采用同类城市 AI 街区经验参数估算，仅用于方案推演。"
     },
     {
-      "id": "A-CASES-001",
-      "status": "analogy_background",
-      "statement": "The five-to-eight global AI ecosystem cases (section 3.3) are drawn from publicly documented city/national AI programs and are used only as transferable-mechanism analogies; no investment, output, or enterprise figures are cited.",
-      "impact": "Cases are background mechanism references, not formal evidence or recruitment/funding commitments for this project."
+      "id": "A-METRIC-001",
+      "category": "metric",
+      "confidence": "low",
+      "assumption": "容积率、建筑密度等指标依赖官方地块指标，临时边界下标记为 unknown，不臆造数值。"
+    },
+    {
+      "id": "A-CLIMATE-001",
+      "category": "environment",
+      "confidence": "medium",
+      "assumption": "海淀 temperate 半湿润气候，蓝绿与海绵策略按华北平原通用参数设计。"
     }
   ]
 }

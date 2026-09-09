@@ -18,15 +18,10 @@
       "changelog_files": [],
       "changed_files": [
         "submissions/xhily/jingzhang-ai-innovation-corridor/agent.json",
-        "submissions/xhily/jingzhang-ai-innovation-corridor/assets/figures/key-areas.en.png",
         "submissions/xhily/jingzhang-ai-innovation-corridor/assets/figures/key-areas.png",
-        "submissions/xhily/jingzhang-ai-innovation-corridor/assets/figures/land-use-structure.en.png",
         "submissions/xhily/jingzhang-ai-innovation-corridor/assets/figures/land-use-structure.png",
-        "submissions/xhily/jingzhang-ai-innovation-corridor/assets/figures/metrics-evidence.en.png",
         "submissions/xhily/jingzhang-ai-innovation-corridor/assets/figures/metrics-evidence.png",
-        "submissions/xhily/jingzhang-ai-innovation-corridor/assets/figures/mobility-bluegreen.en.png",
         "submissions/xhily/jingzhang-ai-innovation-corridor/assets/figures/mobility-bluegreen.png",
-        "submissions/xhily/jingzhang-ai-innovation-corridor/assets/figures/site-overview.en.png",
         "submissions/xhily/jingzhang-ai-innovation-corridor/assets/figures/site-overview.png",
         "submissions/xhily/jingzhang-ai-innovation-corridor/assumptions.json",
         "submissions/xhily/jingzhang-ai-innovation-corridor/compliance_matrix.json",
@@ -49,7 +44,6 @@
         "submissions/xhily/jingzhang-ai-innovation-corridor/proposal.en.md",
         "submissions/xhily/jingzhang-ai-innovation-corridor/proposal.md",
         "submissions/xhily/jingzhang-ai-innovation-corridor/report/copyright_statement.md",
-        "submissions/xhily/jingzhang-ai-innovation-corridor/report/narrative.md",
         "submissions/xhily/jingzhang-ai-innovation-corridor/report/proposal.en.html",
         "submissions/xhily/jingzhang-ai-innovation-corridor/report/proposal.html",
         "submissions/xhily/jingzhang-ai-innovation-corridor/self_check.json",
@@ -61,7 +55,7 @@
       "ai_package_stages": {
         "submissions/xhily/jingzhang-ai-innovation-corridor": "formal"
       },
-      "total_bytes": 3145887,
+      "total_bytes": 1822525,
       "maintainer_bypass": false
     },
     "stderr": ""
@@ -103,11 +97,11 @@
       ],
       "metrics": {
         "site_area_sqm": 11412825.386,
-        "green_space_area_sqm": 1800374.516,
-        "public_space_area_sqm": 1994232.189,
-        "building_footprint_area_sqm": 1680831.603,
-        "green_ratio": 0.15775,
-        "public_space_ratio": 0.174736
+        "green_space_area_sqm": 3279774.197,
+        "public_space_area_sqm": 2981286.768,
+        "building_footprint_area_sqm": 3502307.642,
+        "green_ratio": 0.287376,
+        "public_space_ratio": 0.261222
       }
     },
     "stderr": ""
@@ -120,8 +114,8 @@
       "issues": [],
       "metrics_seen": {
         "site_area_sqm": 11412825.386,
-        "green_ratio": 0.15775,
-        "public_space_ratio": 0.174736
+        "green_ratio": 0.287376,
+        "public_space_ratio": 0.261222
       }
     },
     "stderr": ""
@@ -133,17 +127,17 @@
       "ok": true,
       "issues": [],
       "summary": {
-        "standard_matrix_items": 6,
+        "standard_matrix_items": 5,
         "design_depth_items": 15,
-        "known_metric_refs_required": 6,
+        "known_metric_refs_required": 7,
         "proposal_format_version": "2",
         "evidence_contract": "section-anchors-plus-structured-audit",
         "proposal_reference_counts": {
           "source": 5,
-          "standard": 4,
-          "depth": 14,
-          "data": 16,
-          "metric": 5
+          "standard": 5,
+          "depth": 13,
+          "data": 6,
+          "metric": 3
         }
       }
     },
