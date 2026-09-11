@@ -1,0 +1,89 @@
+{
+ "schema_version": "0.1.0",
+ "sources": [
+  {
+   "id": "SRC-OFFICIAL-ANNOUNCEMENT",
+   "title_zh": "海淀·百年京张 AI 创新带城市设计开源征集公告（2026-05-09）",
+   "type": "official_announcement",
+   "access_note": "公开或 cleared 数据；provisional 边界待官方红线替换"
+  },
+  {
+   "id": "SRC-AGENT-TASKBOOK",
+   "title_zh": "Agent 开源征集任务书（agent_taskbook.json）",
+   "type": "taskbook",
+   "access_note": "公开或 cleared 数据；provisional 边界待官方红线替换"
+  },
+  {
+   "id": "SRC-MOHURD-DESIGN-MEASURES",
+   "title_zh": "住房城乡建设部《城市设计管理办法》",
+   "type": "regulation",
+   "access_note": "公开或 cleared 数据；provisional 边界待官方红线替换"
+  },
+  {
+   "id": "SRC-MOHURD-CONTROL-PLAN",
+   "title_zh": "住房城乡建设部《城市规划编制办法》及控制性详细规划深度要求",
+   "type": "regulation",
+   "access_note": "公开或 cleared 数据；provisional 边界待官方红线替换"
+  },
+  {
+   "id": "SRC-MNR-LAND-USE",
+   "title_zh": "自然资源部《国土空间调查、规划、用途管制用地用海分类指南》",
+   "type": "regulation",
+   "access_note": "公开或 cleared 数据；provisional 边界待官方红线替换"
+  },
+  {
+   "id": "SRC-BEIJING-PLAN-2035",
+   "title_zh": "《北京城市总体规划（2016—2035年）》",
+   "type": "plan",
+   "access_note": "公开或 cleared 数据；provisional 边界待官方红线替换"
+  },
+  {
+   "id": "SRC-HAIDIAN-STATS-2024",
+   "title_zh": "海淀区 2024 年国民经济和社会发展统计公报（人口、产业、用地）",
+   "type": "statistics",
+   "access_note": "公开或 cleared 数据；provisional 边界待官方红线替换"
+  },
+  {
+   "id": "SRC-JINGZHANG-HISTORY",
+   "title_zh": "京张铁路与京张遗址公园公开史料与规划资料",
+   "type": "reference",
+   "access_note": "公开或 cleared 数据；provisional 边界待官方红线替换"
+  },
+  {
+   "id": "SRC-AI-TALENT-REPORT",
+   "title_zh": "AI 产业人才画像与算力需求公开研究报告",
+   "type": "report",
+   "access_note": "公开或 cleared 数据；provisional 边界待官方红线替换"
+  },
+  {
+   "id": "SRC-TRANSIT-PLAN",
+   "title_zh": "北京轨道交通线网与海淀片区公共交通规划资料",
+   "type": "plan",
+   "access_note": "公开或 cleared 数据；provisional 边界待官方红线替换"
+  },
+  {
+   "id": "SRC-CLIMATE-NORMALS",
+   "title_zh": "北京地区气候常态与风环境公开数据",
+   "type": "dataset",
+   "access_note": "公开或 cleared 数据；provisional 边界待官方红线替换"
+  },
+  {
+   "id": "SRC-PROVISIONAL-BOUNDARIES",
+   "title_zh": "基于公开数据的 provisional 总体/重点范围边界（待官方红线替换）",
+   "type": "provisional",
+   "access_note": "公开或 cleared 数据；provisional 边界待官方红线替换"
+  },
+  {
+   "id": "SRC-OPEN-DATA",
+   "title_zh": "OpenStreetMap 等开放数据（道路、用地、POI 推测）",
+   "type": "opendata",
+   "access_note": "公开或 cleared 数据；provisional 边界待官方红线替换"
+  },
+  {
+   "id": "SRC-COCREATION-CHARTER",
+   "title_zh": "开源协作共创章程（co_creation_charter）",
+   "type": "charter",
+   "access_note": "公开或 cleared 数据；provisional 边界待官方红线替换"
+  }
+ ]
+}

@@ -1,0 +1,707 @@
+{
+ "type": "FeatureCollection",
+ "name": "roads",
+ "features": [
+  {
+   "type": "Feature",
+   "id": "RD-001",
+   "properties": {
+    "id": "RD-001",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.342,
+      39.939
+     ],
+     [
+      116.342,
+      40.01214999999997
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-002",
+   "properties": {
+    "id": "RD-002",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.346,
+      39.939
+     ],
+     [
+      116.346,
+      40.0265
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-003",
+   "properties": {
+    "id": "RD-003",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.35000000000001,
+      39.939
+     ],
+     [
+      116.35000000000001,
+      40.0265
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-004",
+   "properties": {
+    "id": "RD-004",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.35400000000001,
+      39.939
+     ],
+     [
+      116.35400000000001,
+      39.98124999999987
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-005",
+   "properties": {
+    "id": "RD-005",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.35400000000001,
+      40.0027750000002
+     ],
+     [
+      116.35400000000001,
+      40.0265
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-006",
+   "properties": {
+    "id": "RD-006",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.34061666666666,
+      39.942
+     ],
+     [
+      116.3553,
+      39.942
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-007",
+   "properties": {
+    "id": "RD-007",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.34050555555555,
+      39.946
+     ],
+     [
+      116.3553,
+      39.946
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-008",
+   "properties": {
+    "id": "RD-008",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.34039444444444,
+      39.949999999999996
+     ],
+     [
+      116.3553,
+      39.949999999999996
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-009",
+   "properties": {
+    "id": "RD-009",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.34028333333333,
+      39.95399999999999
+     ],
+     [
+      116.3553,
+      39.95399999999999
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-010",
+   "properties": {
+    "id": "RD-010",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.34017222222222,
+      39.95799999999999
+     ],
+     [
+      116.3553,
+      39.95799999999999
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-011",
+   "properties": {
+    "id": "RD-011",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.34006111111111,
+      39.96199999999999
+     ],
+     [
+      116.3553,
+      39.96199999999999
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-012",
+   "properties": {
+    "id": "RD-012",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.33995,
+      39.96599999999999
+     ],
+     [
+      116.35522,
+      39.96599999999999
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-013",
+   "properties": {
+    "id": "RD-013",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.33983888888888,
+      39.969999999999985
+     ],
+     [
+      116.3549,
+      39.969999999999985
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-014",
+   "properties": {
+    "id": "RD-014",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.33972777777777,
+      39.97399999999998
+     ],
+     [
+      116.35458,
+      39.97399999999998
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-015",
+   "properties": {
+    "id": "RD-015",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.3398935483871,
+      39.97799999999998
+     ],
+     [
+      116.35426000000001,
+      39.97799999999998
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-016",
+   "properties": {
+    "id": "RD-016",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.34015161290321,
+      39.98199999999998
+     ],
+     [
+      116.35394000000001,
+      39.98199999999998
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-017",
+   "properties": {
+    "id": "RD-017",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.34040967741934,
+      39.985999999999976
+     ],
+     [
+      116.35362,
+      39.985999999999976
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-018",
+   "properties": {
+    "id": "RD-018",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.34066774193548,
+      39.989999999999974
+     ],
+     [
+      116.3533,
+      39.989999999999974
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-019",
+   "properties": {
+    "id": "RD-019",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.34092580645161,
+      39.99399999999997
+     ],
+     [
+      116.3535191780822,
+      39.99399999999997
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-020",
+   "properties": {
+    "id": "RD-020",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.34118387096774,
+      39.99799999999997
+     ],
+     [
+      116.35373835616438,
+      39.99799999999997
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-021",
+   "properties": {
+    "id": "RD-021",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.34144193548387,
+      40.00199999999997
+     ],
+     [
+      116.35395753424658,
+      40.00199999999997
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-022",
+   "properties": {
+    "id": "RD-022",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.3417,
+      40.005999999999965
+     ],
+     [
+      116.35417671232877,
+      40.005999999999965
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-023",
+   "properties": {
+    "id": "RD-023",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.34189512195123,
+      40.00999999999996
+     ],
+     [
+      116.35439589041096,
+      40.00999999999996
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-024",
+   "properties": {
+    "id": "RD-024",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.34209024390243,
+      40.01399999999996
+     ],
+     [
+      116.35461506849315,
+      40.01399999999996
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-025",
+   "properties": {
+    "id": "RD-025",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.34228536585366,
+      40.01799999999996
+     ],
+     [
+      116.35483424657534,
+      40.01799999999996
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-026",
+   "properties": {
+    "id": "RD-026",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.34248048780488,
+      40.021999999999956
+     ],
+     [
+      116.35505342465753,
+      40.021999999999956
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-027",
+   "properties": {
+    "id": "RD-027",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_branch",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.34267560975609,
+      40.025999999999954
+     ],
+     [
+      116.35527260273972,
+      40.025999999999954
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "RD-028",
+   "properties": {
+    "id": "RD-028",
+    "layer": "ROAD_CENTERLINE",
+    "road_class": "urban_arterial",
+    "name_zh": "京张遗址公园活力带主廊道",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.3407,
+      39.967
+     ],
+     [
+      116.35514,
+      39.967
+     ]
+    ]
+   }
+  }
+ ]
+}

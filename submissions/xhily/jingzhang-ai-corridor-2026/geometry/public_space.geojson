@@ -1,0 +1,6250 @@
+{
+ "type": "FeatureCollection",
+ "name": "public_space",
+ "features": [
+  {
+   "type": "Feature",
+   "id": "PS-LU-00018",
+   "properties": {
+    "id": "PS-LU-00018",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 8918.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.96059999999995
+      ],
+      [
+       116.34089999999999,
+       39.95939999999995
+      ],
+      [
+       116.34013333333333,
+       39.95939999999995
+      ],
+      [
+       116.34009999999999,
+       39.96059999999995
+      ],
+      [
+       116.34089999999999,
+       39.96059999999995
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00019",
+   "properties": {
+    "id": "PS-LU-00019",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 9298.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.96179999999995
+      ],
+      [
+       116.34089999999999,
+       39.96059999999995
+      ],
+      [
+       116.34009999999999,
+       39.96059999999995
+      ],
+      [
+       116.34006666666666,
+       39.96179999999995
+      ],
+      [
+       116.34089999999999,
+       39.96179999999995
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00020",
+   "properties": {
+    "id": "PS-LU-00020",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 9677.3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.962999999999944
+      ],
+      [
+       116.34089999999999,
+       39.96179999999995
+      ],
+      [
+       116.34006666666666,
+       39.96179999999995
+      ],
+      [
+       116.34003333333332,
+       39.962999999999944
+      ],
+      [
+       116.34089999999999,
+       39.962999999999944
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00021",
+   "properties": {
+    "id": "PS-LU-00021",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 10056.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.96419999999994
+      ],
+      [
+       116.34089999999999,
+       39.962999999999944
+      ],
+      [
+       116.34003333333332,
+       39.962999999999944
+      ],
+      [
+       116.34,
+       39.96419999999994
+      ],
+      [
+       116.34089999999999,
+       39.96419999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00022",
+   "properties": {
+    "id": "PS-LU-00022",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 10435.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.96539999999994
+      ],
+      [
+       116.34089999999999,
+       39.96419999999994
+      ],
+      [
+       116.34,
+       39.96419999999994
+      ],
+      [
+       116.33996666666667,
+       39.96539999999994
+      ],
+      [
+       116.34089999999999,
+       39.96539999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00023",
+   "properties": {
+    "id": "PS-LU-00023",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 10815.2
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.966599999999936
+      ],
+      [
+       116.34089999999999,
+       39.96539999999994
+      ],
+      [
+       116.33996666666667,
+       39.96539999999994
+      ],
+      [
+       116.33993333333333,
+       39.966599999999936
+      ],
+      [
+       116.34089999999999,
+       39.966599999999936
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00024",
+   "properties": {
+    "id": "PS-LU-00024",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 11194.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.96779999999993
+      ],
+      [
+       116.34089999999999,
+       39.966599999999936
+      ],
+      [
+       116.33993333333333,
+       39.966599999999936
+      ],
+      [
+       116.3399,
+       39.96779999999993
+      ],
+      [
+       116.34089999999999,
+       39.96779999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00025",
+   "properties": {
+    "id": "PS-LU-00025",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 11573.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.96899999999993
+      ],
+      [
+       116.34089999999999,
+       39.96779999999993
+      ],
+      [
+       116.3399,
+       39.96779999999993
+      ],
+      [
+       116.33986666666667,
+       39.96899999999993
+      ],
+      [
+       116.34089999999999,
+       39.96899999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00026",
+   "properties": {
+    "id": "PS-LU-00026",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 11953.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.97019999999993
+      ],
+      [
+       116.34089999999999,
+       39.96899999999993
+      ],
+      [
+       116.33986666666667,
+       39.96899999999993
+      ],
+      [
+       116.33983333333333,
+       39.97019999999993
+      ],
+      [
+       116.34089999999999,
+       39.97019999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00027",
+   "properties": {
+    "id": "PS-LU-00027",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 12332.3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.971399999999925
+      ],
+      [
+       116.34089999999999,
+       39.97019999999993
+      ],
+      [
+       116.33983333333333,
+       39.97019999999993
+      ],
+      [
+       116.3398,
+       39.971399999999925
+      ],
+      [
+       116.34089999999999,
+       39.971399999999925
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00028",
+   "properties": {
+    "id": "PS-LU-00028",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 12711.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.97259999999992
+      ],
+      [
+       116.34089999999999,
+       39.971399999999925
+      ],
+      [
+       116.3398,
+       39.971399999999925
+      ],
+      [
+       116.33976666666666,
+       39.97259999999992
+      ],
+      [
+       116.34089999999999,
+       39.97259999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00029",
+   "properties": {
+    "id": "PS-LU-00029",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13090.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.97379999999992
+      ],
+      [
+       116.34089999999999,
+       39.97259999999992
+      ],
+      [
+       116.33976666666666,
+       39.97259999999992
+      ],
+      [
+       116.33973333333333,
+       39.97379999999992
+      ],
+      [
+       116.34089999999999,
+       39.97379999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00065",
+   "properties": {
+    "id": "PS-LU-00065",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.96179999999995
+      ],
+      [
+       116.34209999999999,
+       39.96179999999995
+      ],
+      [
+       116.34209999999999,
+       39.96059999999995
+      ],
+      [
+       116.34089999999999,
+       39.96059999999995
+      ],
+      [
+       116.34089999999999,
+       39.96179999999995
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00066",
+   "properties": {
+    "id": "PS-LU-00066",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.962999999999944
+      ],
+      [
+       116.34209999999999,
+       39.962999999999944
+      ],
+      [
+       116.34209999999999,
+       39.96179999999995
+      ],
+      [
+       116.34089999999999,
+       39.96179999999995
+      ],
+      [
+       116.34089999999999,
+       39.962999999999944
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00067",
+   "properties": {
+    "id": "PS-LU-00067",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.96419999999994
+      ],
+      [
+       116.34209999999999,
+       39.96419999999994
+      ],
+      [
+       116.34209999999999,
+       39.962999999999944
+      ],
+      [
+       116.34089999999999,
+       39.962999999999944
+      ],
+      [
+       116.34089999999999,
+       39.96419999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00068",
+   "properties": {
+    "id": "PS-LU-00068",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.96539999999994
+      ],
+      [
+       116.34209999999999,
+       39.96539999999994
+      ],
+      [
+       116.34209999999999,
+       39.96419999999994
+      ],
+      [
+       116.34089999999999,
+       39.96419999999994
+      ],
+      [
+       116.34089999999999,
+       39.96539999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00069",
+   "properties": {
+    "id": "PS-LU-00069",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.966599999999936
+      ],
+      [
+       116.34209999999999,
+       39.966599999999936
+      ],
+      [
+       116.34209999999999,
+       39.96539999999994
+      ],
+      [
+       116.34089999999999,
+       39.96539999999994
+      ],
+      [
+       116.34089999999999,
+       39.966599999999936
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00070",
+   "properties": {
+    "id": "PS-LU-00070",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.96779999999993
+      ],
+      [
+       116.34209999999999,
+       39.96779999999993
+      ],
+      [
+       116.34209999999999,
+       39.966599999999936
+      ],
+      [
+       116.34089999999999,
+       39.966599999999936
+      ],
+      [
+       116.34089999999999,
+       39.96779999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00071",
+   "properties": {
+    "id": "PS-LU-00071",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.96899999999993
+      ],
+      [
+       116.34209999999999,
+       39.96899999999993
+      ],
+      [
+       116.34209999999999,
+       39.96779999999993
+      ],
+      [
+       116.34089999999999,
+       39.96779999999993
+      ],
+      [
+       116.34089999999999,
+       39.96899999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00072",
+   "properties": {
+    "id": "PS-LU-00072",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.7
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.97019999999993
+      ],
+      [
+       116.34209999999999,
+       39.97019999999993
+      ],
+      [
+       116.34209999999999,
+       39.96899999999993
+      ],
+      [
+       116.34089999999999,
+       39.96899999999993
+      ],
+      [
+       116.34089999999999,
+       39.97019999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00073",
+   "properties": {
+    "id": "PS-LU-00073",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.971399999999925
+      ],
+      [
+       116.34209999999999,
+       39.971399999999925
+      ],
+      [
+       116.34209999999999,
+       39.97019999999993
+      ],
+      [
+       116.34089999999999,
+       39.97019999999993
+      ],
+      [
+       116.34089999999999,
+       39.971399999999925
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00074",
+   "properties": {
+    "id": "PS-LU-00074",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.2
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.97259999999992
+      ],
+      [
+       116.34209999999999,
+       39.97259999999992
+      ],
+      [
+       116.34209999999999,
+       39.971399999999925
+      ],
+      [
+       116.34089999999999,
+       39.971399999999925
+      ],
+      [
+       116.34089999999999,
+       39.97259999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00075",
+   "properties": {
+    "id": "PS-LU-00075",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13659.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34089999999999,
+       39.97379999999992
+      ],
+      [
+       116.34209999999999,
+       39.97379999999992
+      ],
+      [
+       116.34209999999999,
+       39.97259999999992
+      ],
+      [
+       116.34089999999999,
+       39.97259999999992
+      ],
+      [
+       116.34089999999999,
+       39.97379999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00128",
+   "properties": {
+    "id": "PS-LU-00128",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34209999999999,
+       39.96179999999995
+      ],
+      [
+       116.34329999999999,
+       39.96179999999995
+      ],
+      [
+       116.34329999999999,
+       39.96059999999995
+      ],
+      [
+       116.34209999999999,
+       39.96059999999995
+      ],
+      [
+       116.34209999999999,
+       39.96179999999995
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00129",
+   "properties": {
+    "id": "PS-LU-00129",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34209999999999,
+       39.962999999999944
+      ],
+      [
+       116.34329999999999,
+       39.962999999999944
+      ],
+      [
+       116.34329999999999,
+       39.96179999999995
+      ],
+      [
+       116.34209999999999,
+       39.96179999999995
+      ],
+      [
+       116.34209999999999,
+       39.962999999999944
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00130",
+   "properties": {
+    "id": "PS-LU-00130",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34209999999999,
+       39.96419999999994
+      ],
+      [
+       116.34329999999999,
+       39.96419999999994
+      ],
+      [
+       116.34329999999999,
+       39.962999999999944
+      ],
+      [
+       116.34209999999999,
+       39.962999999999944
+      ],
+      [
+       116.34209999999999,
+       39.96419999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00131",
+   "properties": {
+    "id": "PS-LU-00131",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34209999999999,
+       39.96539999999994
+      ],
+      [
+       116.34329999999999,
+       39.96539999999994
+      ],
+      [
+       116.34329999999999,
+       39.96419999999994
+      ],
+      [
+       116.34209999999999,
+       39.96419999999994
+      ],
+      [
+       116.34209999999999,
+       39.96539999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00132",
+   "properties": {
+    "id": "PS-LU-00132",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34209999999999,
+       39.966599999999936
+      ],
+      [
+       116.34329999999999,
+       39.966599999999936
+      ],
+      [
+       116.34329999999999,
+       39.96539999999994
+      ],
+      [
+       116.34209999999999,
+       39.96539999999994
+      ],
+      [
+       116.34209999999999,
+       39.966599999999936
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00133",
+   "properties": {
+    "id": "PS-LU-00133",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34209999999999,
+       39.96779999999993
+      ],
+      [
+       116.34329999999999,
+       39.96779999999993
+      ],
+      [
+       116.34329999999999,
+       39.966599999999936
+      ],
+      [
+       116.34209999999999,
+       39.966599999999936
+      ],
+      [
+       116.34209999999999,
+       39.96779999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00134",
+   "properties": {
+    "id": "PS-LU-00134",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34209999999999,
+       39.96899999999993
+      ],
+      [
+       116.34329999999999,
+       39.96899999999993
+      ],
+      [
+       116.34329999999999,
+       39.96779999999993
+      ],
+      [
+       116.34209999999999,
+       39.96779999999993
+      ],
+      [
+       116.34209999999999,
+       39.96899999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00135",
+   "properties": {
+    "id": "PS-LU-00135",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.7
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34209999999999,
+       39.97019999999993
+      ],
+      [
+       116.34329999999999,
+       39.97019999999993
+      ],
+      [
+       116.34329999999999,
+       39.96899999999993
+      ],
+      [
+       116.34209999999999,
+       39.96899999999993
+      ],
+      [
+       116.34209999999999,
+       39.97019999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00136",
+   "properties": {
+    "id": "PS-LU-00136",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34209999999999,
+       39.971399999999925
+      ],
+      [
+       116.34329999999999,
+       39.971399999999925
+      ],
+      [
+       116.34329999999999,
+       39.97019999999993
+      ],
+      [
+       116.34209999999999,
+       39.97019999999993
+      ],
+      [
+       116.34209999999999,
+       39.971399999999925
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00137",
+   "properties": {
+    "id": "PS-LU-00137",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.2
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34209999999999,
+       39.97259999999992
+      ],
+      [
+       116.34329999999999,
+       39.97259999999992
+      ],
+      [
+       116.34329999999999,
+       39.971399999999925
+      ],
+      [
+       116.34209999999999,
+       39.971399999999925
+      ],
+      [
+       116.34209999999999,
+       39.97259999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00138",
+   "properties": {
+    "id": "PS-LU-00138",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13659.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34209999999999,
+       39.97379999999992
+      ],
+      [
+       116.34329999999999,
+       39.97379999999992
+      ],
+      [
+       116.34329999999999,
+       39.97259999999992
+      ],
+      [
+       116.34209999999999,
+       39.97259999999992
+      ],
+      [
+       116.34209999999999,
+       39.97379999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00198",
+   "properties": {
+    "id": "PS-LU-00198",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1403",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13663.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34329999999999,
+       39.958199999999955
+      ],
+      [
+       116.34449999999998,
+       39.958199999999955
+      ],
+      [
+       116.34449999999998,
+       39.95699999999996
+      ],
+      [
+       116.34329999999999,
+       39.95699999999996
+      ],
+      [
+       116.34329999999999,
+       39.958199999999955
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00201",
+   "properties": {
+    "id": "PS-LU-00201",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34329999999999,
+       39.96179999999995
+      ],
+      [
+       116.34449999999998,
+       39.96179999999995
+      ],
+      [
+       116.34449999999998,
+       39.96059999999995
+      ],
+      [
+       116.34329999999999,
+       39.96059999999995
+      ],
+      [
+       116.34329999999999,
+       39.96179999999995
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00202",
+   "properties": {
+    "id": "PS-LU-00202",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34329999999999,
+       39.962999999999944
+      ],
+      [
+       116.34449999999998,
+       39.962999999999944
+      ],
+      [
+       116.34449999999998,
+       39.96179999999995
+      ],
+      [
+       116.34329999999999,
+       39.96179999999995
+      ],
+      [
+       116.34329999999999,
+       39.962999999999944
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00203",
+   "properties": {
+    "id": "PS-LU-00203",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34329999999999,
+       39.96419999999994
+      ],
+      [
+       116.34449999999998,
+       39.96419999999994
+      ],
+      [
+       116.34449999999998,
+       39.962999999999944
+      ],
+      [
+       116.34329999999999,
+       39.962999999999944
+      ],
+      [
+       116.34329999999999,
+       39.96419999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00204",
+   "properties": {
+    "id": "PS-LU-00204",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34329999999999,
+       39.96539999999994
+      ],
+      [
+       116.34449999999998,
+       39.96539999999994
+      ],
+      [
+       116.34449999999998,
+       39.96419999999994
+      ],
+      [
+       116.34329999999999,
+       39.96419999999994
+      ],
+      [
+       116.34329999999999,
+       39.96539999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00205",
+   "properties": {
+    "id": "PS-LU-00205",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34329999999999,
+       39.966599999999936
+      ],
+      [
+       116.34449999999998,
+       39.966599999999936
+      ],
+      [
+       116.34449999999998,
+       39.96539999999994
+      ],
+      [
+       116.34329999999999,
+       39.96539999999994
+      ],
+      [
+       116.34329999999999,
+       39.966599999999936
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00206",
+   "properties": {
+    "id": "PS-LU-00206",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34329999999999,
+       39.96779999999993
+      ],
+      [
+       116.34449999999998,
+       39.96779999999993
+      ],
+      [
+       116.34449999999998,
+       39.966599999999936
+      ],
+      [
+       116.34329999999999,
+       39.966599999999936
+      ],
+      [
+       116.34329999999999,
+       39.96779999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00207",
+   "properties": {
+    "id": "PS-LU-00207",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34329999999999,
+       39.96899999999993
+      ],
+      [
+       116.34449999999998,
+       39.96899999999993
+      ],
+      [
+       116.34449999999998,
+       39.96779999999993
+      ],
+      [
+       116.34329999999999,
+       39.96779999999993
+      ],
+      [
+       116.34329999999999,
+       39.96899999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00208",
+   "properties": {
+    "id": "PS-LU-00208",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34329999999999,
+       39.97019999999993
+      ],
+      [
+       116.34449999999998,
+       39.97019999999993
+      ],
+      [
+       116.34449999999998,
+       39.96899999999993
+      ],
+      [
+       116.34329999999999,
+       39.96899999999993
+      ],
+      [
+       116.34329999999999,
+       39.97019999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00209",
+   "properties": {
+    "id": "PS-LU-00209",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34329999999999,
+       39.971399999999925
+      ],
+      [
+       116.34449999999998,
+       39.971399999999925
+      ],
+      [
+       116.34449999999998,
+       39.97019999999993
+      ],
+      [
+       116.34329999999999,
+       39.97019999999993
+      ],
+      [
+       116.34329999999999,
+       39.971399999999925
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00210",
+   "properties": {
+    "id": "PS-LU-00210",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.2
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34329999999999,
+       39.97259999999992
+      ],
+      [
+       116.34449999999998,
+       39.97259999999992
+      ],
+      [
+       116.34449999999998,
+       39.971399999999925
+      ],
+      [
+       116.34329999999999,
+       39.971399999999925
+      ],
+      [
+       116.34329999999999,
+       39.97259999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00211",
+   "properties": {
+    "id": "PS-LU-00211",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13659.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34329999999999,
+       39.97379999999992
+      ],
+      [
+       116.34449999999998,
+       39.97379999999992
+      ],
+      [
+       116.34449999999998,
+       39.97259999999992
+      ],
+      [
+       116.34329999999999,
+       39.97259999999992
+      ],
+      [
+       116.34329999999999,
+       39.97379999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00219",
+   "properties": {
+    "id": "PS-LU-00219",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1403",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13658.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34329999999999,
+       39.9833999999999
+      ],
+      [
+       116.34449999999998,
+       39.9833999999999
+      ],
+      [
+       116.34449999999998,
+       39.9821999999999
+      ],
+      [
+       116.34329999999999,
+       39.9821999999999
+      ],
+      [
+       116.34329999999999,
+       39.9833999999999
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00274",
+   "properties": {
+    "id": "PS-LU-00274",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34449999999998,
+       39.96179999999995
+      ],
+      [
+       116.34569999999998,
+       39.96179999999995
+      ],
+      [
+       116.34569999999998,
+       39.96059999999995
+      ],
+      [
+       116.34449999999998,
+       39.96059999999995
+      ],
+      [
+       116.34449999999998,
+       39.96179999999995
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00275",
+   "properties": {
+    "id": "PS-LU-00275",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34449999999998,
+       39.962999999999944
+      ],
+      [
+       116.34569999999998,
+       39.962999999999944
+      ],
+      [
+       116.34569999999998,
+       39.96179999999995
+      ],
+      [
+       116.34449999999998,
+       39.96179999999995
+      ],
+      [
+       116.34449999999998,
+       39.962999999999944
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00276",
+   "properties": {
+    "id": "PS-LU-00276",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34449999999998,
+       39.96419999999994
+      ],
+      [
+       116.34569999999998,
+       39.96419999999994
+      ],
+      [
+       116.34569999999998,
+       39.962999999999944
+      ],
+      [
+       116.34449999999998,
+       39.962999999999944
+      ],
+      [
+       116.34449999999998,
+       39.96419999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00277",
+   "properties": {
+    "id": "PS-LU-00277",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34449999999998,
+       39.96539999999994
+      ],
+      [
+       116.34569999999998,
+       39.96539999999994
+      ],
+      [
+       116.34569999999998,
+       39.96419999999994
+      ],
+      [
+       116.34449999999998,
+       39.96419999999994
+      ],
+      [
+       116.34449999999998,
+       39.96539999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00278",
+   "properties": {
+    "id": "PS-LU-00278",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34449999999998,
+       39.966599999999936
+      ],
+      [
+       116.34569999999998,
+       39.966599999999936
+      ],
+      [
+       116.34569999999998,
+       39.96539999999994
+      ],
+      [
+       116.34449999999998,
+       39.96539999999994
+      ],
+      [
+       116.34449999999998,
+       39.966599999999936
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00279",
+   "properties": {
+    "id": "PS-LU-00279",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34449999999998,
+       39.96779999999993
+      ],
+      [
+       116.34569999999998,
+       39.96779999999993
+      ],
+      [
+       116.34569999999998,
+       39.966599999999936
+      ],
+      [
+       116.34449999999998,
+       39.966599999999936
+      ],
+      [
+       116.34449999999998,
+       39.96779999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00280",
+   "properties": {
+    "id": "PS-LU-00280",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34449999999998,
+       39.96899999999993
+      ],
+      [
+       116.34569999999998,
+       39.96899999999993
+      ],
+      [
+       116.34569999999998,
+       39.96779999999993
+      ],
+      [
+       116.34449999999998,
+       39.96779999999993
+      ],
+      [
+       116.34449999999998,
+       39.96899999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00281",
+   "properties": {
+    "id": "PS-LU-00281",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34449999999998,
+       39.97019999999993
+      ],
+      [
+       116.34569999999998,
+       39.97019999999993
+      ],
+      [
+       116.34569999999998,
+       39.96899999999993
+      ],
+      [
+       116.34449999999998,
+       39.96899999999993
+      ],
+      [
+       116.34449999999998,
+       39.97019999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00282",
+   "properties": {
+    "id": "PS-LU-00282",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34449999999998,
+       39.971399999999925
+      ],
+      [
+       116.34569999999998,
+       39.971399999999925
+      ],
+      [
+       116.34569999999998,
+       39.97019999999993
+      ],
+      [
+       116.34449999999998,
+       39.97019999999993
+      ],
+      [
+       116.34449999999998,
+       39.971399999999925
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00283",
+   "properties": {
+    "id": "PS-LU-00283",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.2
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34449999999998,
+       39.97259999999992
+      ],
+      [
+       116.34569999999998,
+       39.97259999999992
+      ],
+      [
+       116.34569999999998,
+       39.971399999999925
+      ],
+      [
+       116.34449999999998,
+       39.971399999999925
+      ],
+      [
+       116.34449999999998,
+       39.97259999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00284",
+   "properties": {
+    "id": "PS-LU-00284",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13659.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34449999999998,
+       39.97379999999992
+      ],
+      [
+       116.34569999999998,
+       39.97379999999992
+      ],
+      [
+       116.34569999999998,
+       39.97259999999992
+      ],
+      [
+       116.34449999999998,
+       39.97259999999992
+      ],
+      [
+       116.34449999999998,
+       39.97379999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00347",
+   "properties": {
+    "id": "PS-LU-00347",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34569999999998,
+       39.96179999999995
+      ],
+      [
+       116.34689999999998,
+       39.96179999999995
+      ],
+      [
+       116.34689999999998,
+       39.96059999999995
+      ],
+      [
+       116.34569999999998,
+       39.96059999999995
+      ],
+      [
+       116.34569999999998,
+       39.96179999999995
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00348",
+   "properties": {
+    "id": "PS-LU-00348",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34569999999998,
+       39.962999999999944
+      ],
+      [
+       116.34689999999998,
+       39.962999999999944
+      ],
+      [
+       116.34689999999998,
+       39.96179999999995
+      ],
+      [
+       116.34569999999998,
+       39.96179999999995
+      ],
+      [
+       116.34569999999998,
+       39.962999999999944
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00349",
+   "properties": {
+    "id": "PS-LU-00349",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34569999999998,
+       39.96419999999994
+      ],
+      [
+       116.34689999999998,
+       39.96419999999994
+      ],
+      [
+       116.34689999999998,
+       39.962999999999944
+      ],
+      [
+       116.34569999999998,
+       39.962999999999944
+      ],
+      [
+       116.34569999999998,
+       39.96419999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00350",
+   "properties": {
+    "id": "PS-LU-00350",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34569999999998,
+       39.96539999999994
+      ],
+      [
+       116.34689999999998,
+       39.96539999999994
+      ],
+      [
+       116.34689999999998,
+       39.96419999999994
+      ],
+      [
+       116.34569999999998,
+       39.96419999999994
+      ],
+      [
+       116.34569999999998,
+       39.96539999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00351",
+   "properties": {
+    "id": "PS-LU-00351",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34569999999998,
+       39.966599999999936
+      ],
+      [
+       116.34689999999998,
+       39.966599999999936
+      ],
+      [
+       116.34689999999998,
+       39.96539999999994
+      ],
+      [
+       116.34569999999998,
+       39.96539999999994
+      ],
+      [
+       116.34569999999998,
+       39.966599999999936
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00352",
+   "properties": {
+    "id": "PS-LU-00352",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34569999999998,
+       39.96779999999993
+      ],
+      [
+       116.34689999999998,
+       39.96779999999993
+      ],
+      [
+       116.34689999999998,
+       39.966599999999936
+      ],
+      [
+       116.34569999999998,
+       39.966599999999936
+      ],
+      [
+       116.34569999999998,
+       39.96779999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00353",
+   "properties": {
+    "id": "PS-LU-00353",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34569999999998,
+       39.96899999999993
+      ],
+      [
+       116.34689999999998,
+       39.96899999999993
+      ],
+      [
+       116.34689999999998,
+       39.96779999999993
+      ],
+      [
+       116.34569999999998,
+       39.96779999999993
+      ],
+      [
+       116.34569999999998,
+       39.96899999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00354",
+   "properties": {
+    "id": "PS-LU-00354",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34569999999998,
+       39.97019999999993
+      ],
+      [
+       116.34689999999998,
+       39.97019999999993
+      ],
+      [
+       116.34689999999998,
+       39.96899999999993
+      ],
+      [
+       116.34569999999998,
+       39.96899999999993
+      ],
+      [
+       116.34569999999998,
+       39.97019999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00355",
+   "properties": {
+    "id": "PS-LU-00355",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34569999999998,
+       39.971399999999925
+      ],
+      [
+       116.34689999999998,
+       39.971399999999925
+      ],
+      [
+       116.34689999999998,
+       39.97019999999993
+      ],
+      [
+       116.34569999999998,
+       39.97019999999993
+      ],
+      [
+       116.34569999999998,
+       39.971399999999925
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00356",
+   "properties": {
+    "id": "PS-LU-00356",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.2
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34569999999998,
+       39.97259999999992
+      ],
+      [
+       116.34689999999998,
+       39.97259999999992
+      ],
+      [
+       116.34689999999998,
+       39.971399999999925
+      ],
+      [
+       116.34569999999998,
+       39.971399999999925
+      ],
+      [
+       116.34569999999998,
+       39.97259999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00357",
+   "properties": {
+    "id": "PS-LU-00357",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13659.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34569999999998,
+       39.97379999999992
+      ],
+      [
+       116.34689999999998,
+       39.97379999999992
+      ],
+      [
+       116.34689999999998,
+       39.97259999999992
+      ],
+      [
+       116.34569999999998,
+       39.97259999999992
+      ],
+      [
+       116.34569999999998,
+       39.97379999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00383",
+   "properties": {
+    "id": "PS-LU-00383",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1403",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13653.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34569999999998,
+       40.004999999999846
+      ],
+      [
+       116.34689999999998,
+       40.004999999999846
+      ],
+      [
+       116.34689999999998,
+       40.00379999999985
+      ],
+      [
+       116.34569999999998,
+       40.00379999999985
+      ],
+      [
+       116.34569999999998,
+       40.004999999999846
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00384",
+   "properties": {
+    "id": "PS-LU-00384",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1403",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13653.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34569999999998,
+       40.00619999999984
+      ],
+      [
+       116.34689999999998,
+       40.00619999999984
+      ],
+      [
+       116.34689999999998,
+       40.004999999999846
+      ],
+      [
+       116.34569999999998,
+       40.004999999999846
+      ],
+      [
+       116.34569999999998,
+       40.00619999999984
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00420",
+   "properties": {
+    "id": "PS-LU-00420",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34689999999998,
+       39.96179999999995
+      ],
+      [
+       116.34809999999997,
+       39.96179999999995
+      ],
+      [
+       116.34809999999997,
+       39.96059999999995
+      ],
+      [
+       116.34689999999998,
+       39.96059999999995
+      ],
+      [
+       116.34689999999998,
+       39.96179999999995
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00421",
+   "properties": {
+    "id": "PS-LU-00421",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34689999999998,
+       39.962999999999944
+      ],
+      [
+       116.34809999999997,
+       39.962999999999944
+      ],
+      [
+       116.34809999999997,
+       39.96179999999995
+      ],
+      [
+       116.34689999999998,
+       39.96179999999995
+      ],
+      [
+       116.34689999999998,
+       39.962999999999944
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00422",
+   "properties": {
+    "id": "PS-LU-00422",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34689999999998,
+       39.96419999999994
+      ],
+      [
+       116.34809999999997,
+       39.96419999999994
+      ],
+      [
+       116.34809999999997,
+       39.962999999999944
+      ],
+      [
+       116.34689999999998,
+       39.962999999999944
+      ],
+      [
+       116.34689999999998,
+       39.96419999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00423",
+   "properties": {
+    "id": "PS-LU-00423",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34689999999998,
+       39.96539999999994
+      ],
+      [
+       116.34809999999997,
+       39.96539999999994
+      ],
+      [
+       116.34809999999997,
+       39.96419999999994
+      ],
+      [
+       116.34689999999998,
+       39.96419999999994
+      ],
+      [
+       116.34689999999998,
+       39.96539999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00424",
+   "properties": {
+    "id": "PS-LU-00424",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34689999999998,
+       39.966599999999936
+      ],
+      [
+       116.34809999999997,
+       39.966599999999936
+      ],
+      [
+       116.34809999999997,
+       39.96539999999994
+      ],
+      [
+       116.34689999999998,
+       39.96539999999994
+      ],
+      [
+       116.34689999999998,
+       39.966599999999936
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00425",
+   "properties": {
+    "id": "PS-LU-00425",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34689999999998,
+       39.96779999999993
+      ],
+      [
+       116.34809999999997,
+       39.96779999999993
+      ],
+      [
+       116.34809999999997,
+       39.966599999999936
+      ],
+      [
+       116.34689999999998,
+       39.966599999999936
+      ],
+      [
+       116.34689999999998,
+       39.96779999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00426",
+   "properties": {
+    "id": "PS-LU-00426",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34689999999998,
+       39.96899999999993
+      ],
+      [
+       116.34809999999997,
+       39.96899999999993
+      ],
+      [
+       116.34809999999997,
+       39.96779999999993
+      ],
+      [
+       116.34689999999998,
+       39.96779999999993
+      ],
+      [
+       116.34689999999998,
+       39.96899999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00427",
+   "properties": {
+    "id": "PS-LU-00427",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34689999999998,
+       39.97019999999993
+      ],
+      [
+       116.34809999999997,
+       39.97019999999993
+      ],
+      [
+       116.34809999999997,
+       39.96899999999993
+      ],
+      [
+       116.34689999999998,
+       39.96899999999993
+      ],
+      [
+       116.34689999999998,
+       39.97019999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00428",
+   "properties": {
+    "id": "PS-LU-00428",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34689999999998,
+       39.971399999999925
+      ],
+      [
+       116.34809999999997,
+       39.971399999999925
+      ],
+      [
+       116.34809999999997,
+       39.97019999999993
+      ],
+      [
+       116.34689999999998,
+       39.97019999999993
+      ],
+      [
+       116.34689999999998,
+       39.971399999999925
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00429",
+   "properties": {
+    "id": "PS-LU-00429",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.2
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34689999999998,
+       39.97259999999992
+      ],
+      [
+       116.34809999999997,
+       39.97259999999992
+      ],
+      [
+       116.34809999999997,
+       39.971399999999925
+      ],
+      [
+       116.34689999999998,
+       39.971399999999925
+      ],
+      [
+       116.34689999999998,
+       39.97259999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00430",
+   "properties": {
+    "id": "PS-LU-00430",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13659.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34689999999998,
+       39.97379999999992
+      ],
+      [
+       116.34809999999997,
+       39.97379999999992
+      ],
+      [
+       116.34809999999997,
+       39.97259999999992
+      ],
+      [
+       116.34689999999998,
+       39.97259999999992
+      ],
+      [
+       116.34689999999998,
+       39.97379999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00493",
+   "properties": {
+    "id": "PS-LU-00493",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34809999999997,
+       39.96179999999995
+      ],
+      [
+       116.34929999999997,
+       39.96179999999995
+      ],
+      [
+       116.34929999999997,
+       39.96059999999995
+      ],
+      [
+       116.34809999999997,
+       39.96059999999995
+      ],
+      [
+       116.34809999999997,
+       39.96179999999995
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00494",
+   "properties": {
+    "id": "PS-LU-00494",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34809999999997,
+       39.962999999999944
+      ],
+      [
+       116.34929999999997,
+       39.962999999999944
+      ],
+      [
+       116.34929999999997,
+       39.96179999999995
+      ],
+      [
+       116.34809999999997,
+       39.96179999999995
+      ],
+      [
+       116.34809999999997,
+       39.962999999999944
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00495",
+   "properties": {
+    "id": "PS-LU-00495",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34809999999997,
+       39.96419999999994
+      ],
+      [
+       116.34929999999997,
+       39.96419999999994
+      ],
+      [
+       116.34929999999997,
+       39.962999999999944
+      ],
+      [
+       116.34809999999997,
+       39.962999999999944
+      ],
+      [
+       116.34809999999997,
+       39.96419999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00496",
+   "properties": {
+    "id": "PS-LU-00496",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34809999999997,
+       39.96539999999994
+      ],
+      [
+       116.34929999999997,
+       39.96539999999994
+      ],
+      [
+       116.34929999999997,
+       39.96419999999994
+      ],
+      [
+       116.34809999999997,
+       39.96419999999994
+      ],
+      [
+       116.34809999999997,
+       39.96539999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00497",
+   "properties": {
+    "id": "PS-LU-00497",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34809999999997,
+       39.966599999999936
+      ],
+      [
+       116.34929999999997,
+       39.966599999999936
+      ],
+      [
+       116.34929999999997,
+       39.96539999999994
+      ],
+      [
+       116.34809999999997,
+       39.96539999999994
+      ],
+      [
+       116.34809999999997,
+       39.966599999999936
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00498",
+   "properties": {
+    "id": "PS-LU-00498",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34809999999997,
+       39.96779999999993
+      ],
+      [
+       116.34929999999997,
+       39.96779999999993
+      ],
+      [
+       116.34929999999997,
+       39.966599999999936
+      ],
+      [
+       116.34809999999997,
+       39.966599999999936
+      ],
+      [
+       116.34809999999997,
+       39.96779999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00499",
+   "properties": {
+    "id": "PS-LU-00499",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34809999999997,
+       39.96899999999993
+      ],
+      [
+       116.34929999999997,
+       39.96899999999993
+      ],
+      [
+       116.34929999999997,
+       39.96779999999993
+      ],
+      [
+       116.34809999999997,
+       39.96779999999993
+      ],
+      [
+       116.34809999999997,
+       39.96899999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00500",
+   "properties": {
+    "id": "PS-LU-00500",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34809999999997,
+       39.97019999999993
+      ],
+      [
+       116.34929999999997,
+       39.97019999999993
+      ],
+      [
+       116.34929999999997,
+       39.96899999999993
+      ],
+      [
+       116.34809999999997,
+       39.96899999999993
+      ],
+      [
+       116.34809999999997,
+       39.97019999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00501",
+   "properties": {
+    "id": "PS-LU-00501",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34809999999997,
+       39.971399999999925
+      ],
+      [
+       116.34929999999997,
+       39.971399999999925
+      ],
+      [
+       116.34929999999997,
+       39.97019999999993
+      ],
+      [
+       116.34809999999997,
+       39.97019999999993
+      ],
+      [
+       116.34809999999997,
+       39.971399999999925
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00502",
+   "properties": {
+    "id": "PS-LU-00502",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.2
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34809999999997,
+       39.97259999999992
+      ],
+      [
+       116.34929999999997,
+       39.97259999999992
+      ],
+      [
+       116.34929999999997,
+       39.971399999999925
+      ],
+      [
+       116.34809999999997,
+       39.971399999999925
+      ],
+      [
+       116.34809999999997,
+       39.97259999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00503",
+   "properties": {
+    "id": "PS-LU-00503",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13659.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34809999999997,
+       39.97379999999992
+      ],
+      [
+       116.34929999999997,
+       39.97379999999992
+      ],
+      [
+       116.34929999999997,
+       39.97259999999992
+      ],
+      [
+       116.34809999999997,
+       39.97259999999992
+      ],
+      [
+       116.34809999999997,
+       39.97379999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00566",
+   "properties": {
+    "id": "PS-LU-00566",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34929999999997,
+       39.96179999999995
+      ],
+      [
+       116.35049999999997,
+       39.96179999999995
+      ],
+      [
+       116.35049999999997,
+       39.96059999999995
+      ],
+      [
+       116.34929999999997,
+       39.96059999999995
+      ],
+      [
+       116.34929999999997,
+       39.96179999999995
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00567",
+   "properties": {
+    "id": "PS-LU-00567",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34929999999997,
+       39.962999999999944
+      ],
+      [
+       116.35049999999997,
+       39.962999999999944
+      ],
+      [
+       116.35049999999997,
+       39.96179999999995
+      ],
+      [
+       116.34929999999997,
+       39.96179999999995
+      ],
+      [
+       116.34929999999997,
+       39.962999999999944
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00568",
+   "properties": {
+    "id": "PS-LU-00568",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34929999999997,
+       39.96419999999994
+      ],
+      [
+       116.35049999999997,
+       39.96419999999994
+      ],
+      [
+       116.35049999999997,
+       39.962999999999944
+      ],
+      [
+       116.34929999999997,
+       39.962999999999944
+      ],
+      [
+       116.34929999999997,
+       39.96419999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00569",
+   "properties": {
+    "id": "PS-LU-00569",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34929999999997,
+       39.96539999999994
+      ],
+      [
+       116.35049999999997,
+       39.96539999999994
+      ],
+      [
+       116.35049999999997,
+       39.96419999999994
+      ],
+      [
+       116.34929999999997,
+       39.96419999999994
+      ],
+      [
+       116.34929999999997,
+       39.96539999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00570",
+   "properties": {
+    "id": "PS-LU-00570",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34929999999997,
+       39.966599999999936
+      ],
+      [
+       116.35049999999997,
+       39.966599999999936
+      ],
+      [
+       116.35049999999997,
+       39.96539999999994
+      ],
+      [
+       116.34929999999997,
+       39.96539999999994
+      ],
+      [
+       116.34929999999997,
+       39.966599999999936
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00571",
+   "properties": {
+    "id": "PS-LU-00571",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34929999999997,
+       39.96779999999993
+      ],
+      [
+       116.35049999999997,
+       39.96779999999993
+      ],
+      [
+       116.35049999999997,
+       39.966599999999936
+      ],
+      [
+       116.34929999999997,
+       39.966599999999936
+      ],
+      [
+       116.34929999999997,
+       39.96779999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00572",
+   "properties": {
+    "id": "PS-LU-00572",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34929999999997,
+       39.96899999999993
+      ],
+      [
+       116.35049999999997,
+       39.96899999999993
+      ],
+      [
+       116.35049999999997,
+       39.96779999999993
+      ],
+      [
+       116.34929999999997,
+       39.96779999999993
+      ],
+      [
+       116.34929999999997,
+       39.96899999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00573",
+   "properties": {
+    "id": "PS-LU-00573",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34929999999997,
+       39.97019999999993
+      ],
+      [
+       116.35049999999997,
+       39.97019999999993
+      ],
+      [
+       116.35049999999997,
+       39.96899999999993
+      ],
+      [
+       116.34929999999997,
+       39.96899999999993
+      ],
+      [
+       116.34929999999997,
+       39.97019999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00574",
+   "properties": {
+    "id": "PS-LU-00574",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34929999999997,
+       39.971399999999925
+      ],
+      [
+       116.35049999999997,
+       39.971399999999925
+      ],
+      [
+       116.35049999999997,
+       39.97019999999993
+      ],
+      [
+       116.34929999999997,
+       39.97019999999993
+      ],
+      [
+       116.34929999999997,
+       39.971399999999925
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00575",
+   "properties": {
+    "id": "PS-LU-00575",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.2
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34929999999997,
+       39.97259999999992
+      ],
+      [
+       116.35049999999997,
+       39.97259999999992
+      ],
+      [
+       116.35049999999997,
+       39.971399999999925
+      ],
+      [
+       116.34929999999997,
+       39.971399999999925
+      ],
+      [
+       116.34929999999997,
+       39.97259999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00576",
+   "properties": {
+    "id": "PS-LU-00576",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13659.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34929999999997,
+       39.97379999999992
+      ],
+      [
+       116.35049999999997,
+       39.97379999999992
+      ],
+      [
+       116.35049999999997,
+       39.97259999999992
+      ],
+      [
+       116.34929999999997,
+       39.97259999999992
+      ],
+      [
+       116.34929999999997,
+       39.97379999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00636",
+   "properties": {
+    "id": "PS-LU-00636",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1403",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13663.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35049999999997,
+       39.958199999999955
+      ],
+      [
+       116.35169999999997,
+       39.958199999999955
+      ],
+      [
+       116.35169999999997,
+       39.95699999999996
+      ],
+      [
+       116.35049999999997,
+       39.95699999999996
+      ],
+      [
+       116.35049999999997,
+       39.958199999999955
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00639",
+   "properties": {
+    "id": "PS-LU-00639",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35049999999997,
+       39.96179999999995
+      ],
+      [
+       116.35169999999997,
+       39.96179999999995
+      ],
+      [
+       116.35169999999997,
+       39.96059999999995
+      ],
+      [
+       116.35049999999997,
+       39.96059999999995
+      ],
+      [
+       116.35049999999997,
+       39.96179999999995
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00640",
+   "properties": {
+    "id": "PS-LU-00640",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35049999999997,
+       39.962999999999944
+      ],
+      [
+       116.35169999999997,
+       39.962999999999944
+      ],
+      [
+       116.35169999999997,
+       39.96179999999995
+      ],
+      [
+       116.35049999999997,
+       39.96179999999995
+      ],
+      [
+       116.35049999999997,
+       39.962999999999944
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00641",
+   "properties": {
+    "id": "PS-LU-00641",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35049999999997,
+       39.96419999999994
+      ],
+      [
+       116.35169999999997,
+       39.96419999999994
+      ],
+      [
+       116.35169999999997,
+       39.962999999999944
+      ],
+      [
+       116.35049999999997,
+       39.962999999999944
+      ],
+      [
+       116.35049999999997,
+       39.96419999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00642",
+   "properties": {
+    "id": "PS-LU-00642",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35049999999997,
+       39.96539999999994
+      ],
+      [
+       116.35169999999997,
+       39.96539999999994
+      ],
+      [
+       116.35169999999997,
+       39.96419999999994
+      ],
+      [
+       116.35049999999997,
+       39.96419999999994
+      ],
+      [
+       116.35049999999997,
+       39.96539999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00643",
+   "properties": {
+    "id": "PS-LU-00643",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35049999999997,
+       39.966599999999936
+      ],
+      [
+       116.35169999999997,
+       39.966599999999936
+      ],
+      [
+       116.35169999999997,
+       39.96539999999994
+      ],
+      [
+       116.35049999999997,
+       39.96539999999994
+      ],
+      [
+       116.35049999999997,
+       39.966599999999936
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00644",
+   "properties": {
+    "id": "PS-LU-00644",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35049999999997,
+       39.96779999999993
+      ],
+      [
+       116.35169999999997,
+       39.96779999999993
+      ],
+      [
+       116.35169999999997,
+       39.966599999999936
+      ],
+      [
+       116.35049999999997,
+       39.966599999999936
+      ],
+      [
+       116.35049999999997,
+       39.96779999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00645",
+   "properties": {
+    "id": "PS-LU-00645",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35049999999997,
+       39.96899999999993
+      ],
+      [
+       116.35169999999997,
+       39.96899999999993
+      ],
+      [
+       116.35169999999997,
+       39.96779999999993
+      ],
+      [
+       116.35049999999997,
+       39.96779999999993
+      ],
+      [
+       116.35049999999997,
+       39.96899999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00646",
+   "properties": {
+    "id": "PS-LU-00646",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35049999999997,
+       39.97019999999993
+      ],
+      [
+       116.35169999999997,
+       39.97019999999993
+      ],
+      [
+       116.35169999999997,
+       39.96899999999993
+      ],
+      [
+       116.35049999999997,
+       39.96899999999993
+      ],
+      [
+       116.35049999999997,
+       39.97019999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00647",
+   "properties": {
+    "id": "PS-LU-00647",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35049999999997,
+       39.971399999999925
+      ],
+      [
+       116.35169999999997,
+       39.971399999999925
+      ],
+      [
+       116.35169999999997,
+       39.97019999999993
+      ],
+      [
+       116.35049999999997,
+       39.97019999999993
+      ],
+      [
+       116.35049999999997,
+       39.971399999999925
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00648",
+   "properties": {
+    "id": "PS-LU-00648",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.2
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35049999999997,
+       39.97259999999992
+      ],
+      [
+       116.35169999999997,
+       39.97259999999992
+      ],
+      [
+       116.35169999999997,
+       39.971399999999925
+      ],
+      [
+       116.35049999999997,
+       39.971399999999925
+      ],
+      [
+       116.35049999999997,
+       39.97259999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00649",
+   "properties": {
+    "id": "PS-LU-00649",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13659.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35049999999997,
+       39.97379999999992
+      ],
+      [
+       116.35169999999997,
+       39.97379999999992
+      ],
+      [
+       116.35169999999997,
+       39.97259999999992
+      ],
+      [
+       116.35049999999997,
+       39.97259999999992
+      ],
+      [
+       116.35049999999997,
+       39.97379999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00657",
+   "properties": {
+    "id": "PS-LU-00657",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1403",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13658.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35049999999997,
+       39.9833999999999
+      ],
+      [
+       116.35169999999997,
+       39.9833999999999
+      ],
+      [
+       116.35169999999997,
+       39.9821999999999
+      ],
+      [
+       116.35049999999997,
+       39.9821999999999
+      ],
+      [
+       116.35049999999997,
+       39.9833999999999
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00709",
+   "properties": {
+    "id": "PS-LU-00709",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1403",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13663.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35169999999997,
+       39.958199999999955
+      ],
+      [
+       116.35289999999996,
+       39.958199999999955
+      ],
+      [
+       116.35289999999996,
+       39.95699999999996
+      ],
+      [
+       116.35169999999997,
+       39.95699999999996
+      ],
+      [
+       116.35169999999997,
+       39.958199999999955
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00712",
+   "properties": {
+    "id": "PS-LU-00712",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35169999999997,
+       39.96179999999995
+      ],
+      [
+       116.35289999999996,
+       39.96179999999995
+      ],
+      [
+       116.35289999999996,
+       39.96059999999995
+      ],
+      [
+       116.35169999999997,
+       39.96059999999995
+      ],
+      [
+       116.35169999999997,
+       39.96179999999995
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00713",
+   "properties": {
+    "id": "PS-LU-00713",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35169999999997,
+       39.962999999999944
+      ],
+      [
+       116.35289999999996,
+       39.962999999999944
+      ],
+      [
+       116.35289999999996,
+       39.96179999999995
+      ],
+      [
+       116.35169999999997,
+       39.96179999999995
+      ],
+      [
+       116.35169999999997,
+       39.962999999999944
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00714",
+   "properties": {
+    "id": "PS-LU-00714",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35169999999997,
+       39.96419999999994
+      ],
+      [
+       116.35289999999996,
+       39.96419999999994
+      ],
+      [
+       116.35289999999996,
+       39.962999999999944
+      ],
+      [
+       116.35169999999997,
+       39.962999999999944
+      ],
+      [
+       116.35169999999997,
+       39.96419999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00715",
+   "properties": {
+    "id": "PS-LU-00715",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35169999999997,
+       39.96539999999994
+      ],
+      [
+       116.35289999999996,
+       39.96539999999994
+      ],
+      [
+       116.35289999999996,
+       39.96419999999994
+      ],
+      [
+       116.35169999999997,
+       39.96419999999994
+      ],
+      [
+       116.35169999999997,
+       39.96539999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00716",
+   "properties": {
+    "id": "PS-LU-00716",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35169999999997,
+       39.966599999999936
+      ],
+      [
+       116.35289999999996,
+       39.966599999999936
+      ],
+      [
+       116.35289999999996,
+       39.96539999999994
+      ],
+      [
+       116.35169999999997,
+       39.96539999999994
+      ],
+      [
+       116.35169999999997,
+       39.966599999999936
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00717",
+   "properties": {
+    "id": "PS-LU-00717",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35169999999997,
+       39.96779999999993
+      ],
+      [
+       116.35289999999996,
+       39.96779999999993
+      ],
+      [
+       116.35289999999996,
+       39.966599999999936
+      ],
+      [
+       116.35169999999997,
+       39.966599999999936
+      ],
+      [
+       116.35169999999997,
+       39.96779999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00718",
+   "properties": {
+    "id": "PS-LU-00718",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35169999999997,
+       39.96899999999993
+      ],
+      [
+       116.35289999999996,
+       39.96899999999993
+      ],
+      [
+       116.35289999999996,
+       39.96779999999993
+      ],
+      [
+       116.35169999999997,
+       39.96779999999993
+      ],
+      [
+       116.35169999999997,
+       39.96899999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00719",
+   "properties": {
+    "id": "PS-LU-00719",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35169999999997,
+       39.97019999999993
+      ],
+      [
+       116.35289999999996,
+       39.97019999999993
+      ],
+      [
+       116.35289999999996,
+       39.96899999999993
+      ],
+      [
+       116.35169999999997,
+       39.96899999999993
+      ],
+      [
+       116.35169999999997,
+       39.97019999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00720",
+   "properties": {
+    "id": "PS-LU-00720",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35169999999997,
+       39.971399999999925
+      ],
+      [
+       116.35289999999996,
+       39.971399999999925
+      ],
+      [
+       116.35289999999996,
+       39.97019999999993
+      ],
+      [
+       116.35169999999997,
+       39.97019999999993
+      ],
+      [
+       116.35169999999997,
+       39.971399999999925
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00721",
+   "properties": {
+    "id": "PS-LU-00721",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.2
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35169999999997,
+       39.97259999999992
+      ],
+      [
+       116.35289999999996,
+       39.97259999999992
+      ],
+      [
+       116.35289999999996,
+       39.971399999999925
+      ],
+      [
+       116.35169999999997,
+       39.971399999999925
+      ],
+      [
+       116.35169999999997,
+       39.97259999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00722",
+   "properties": {
+    "id": "PS-LU-00722",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13659.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35169999999997,
+       39.97379999999992
+      ],
+      [
+       116.35289999999996,
+       39.97379999999992
+      ],
+      [
+       116.35289999999996,
+       39.97259999999992
+      ],
+      [
+       116.35169999999997,
+       39.97259999999992
+      ],
+      [
+       116.35169999999997,
+       39.97379999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00730",
+   "properties": {
+    "id": "PS-LU-00730",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1403",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13658.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35169999999997,
+       39.9833999999999
+      ],
+      [
+       116.35289999999996,
+       39.9833999999999
+      ],
+      [
+       116.35289999999996,
+       39.9821999999999
+      ],
+      [
+       116.35169999999997,
+       39.9821999999999
+      ],
+      [
+       116.35169999999997,
+       39.9833999999999
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00785",
+   "properties": {
+    "id": "PS-LU-00785",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35289999999996,
+       39.96179999999995
+      ],
+      [
+       116.35409999999996,
+       39.96179999999995
+      ],
+      [
+       116.35409999999996,
+       39.96059999999995
+      ],
+      [
+       116.35289999999996,
+       39.96059999999995
+      ],
+      [
+       116.35289999999996,
+       39.96179999999995
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00786",
+   "properties": {
+    "id": "PS-LU-00786",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35289999999996,
+       39.962999999999944
+      ],
+      [
+       116.35409999999996,
+       39.962999999999944
+      ],
+      [
+       116.35409999999996,
+       39.96179999999995
+      ],
+      [
+       116.35289999999996,
+       39.96179999999995
+      ],
+      [
+       116.35289999999996,
+       39.962999999999944
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00787",
+   "properties": {
+    "id": "PS-LU-00787",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35289999999996,
+       39.96419999999994
+      ],
+      [
+       116.35409999999996,
+       39.96419999999994
+      ],
+      [
+       116.35409999999996,
+       39.962999999999944
+      ],
+      [
+       116.35289999999996,
+       39.962999999999944
+      ],
+      [
+       116.35289999999996,
+       39.96419999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00788",
+   "properties": {
+    "id": "PS-LU-00788",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35289999999996,
+       39.96539999999994
+      ],
+      [
+       116.35409999999996,
+       39.96539999999994
+      ],
+      [
+       116.35409999999996,
+       39.96419999999994
+      ],
+      [
+       116.35289999999996,
+       39.96419999999994
+      ],
+      [
+       116.35289999999996,
+       39.96539999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00789",
+   "properties": {
+    "id": "PS-LU-00789",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35289999999996,
+       39.966599999999936
+      ],
+      [
+       116.35409999999996,
+       39.966599999999936
+      ],
+      [
+       116.35409999999996,
+       39.96539999999994
+      ],
+      [
+       116.35289999999996,
+       39.96539999999994
+      ],
+      [
+       116.35289999999996,
+       39.966599999999936
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00790",
+   "properties": {
+    "id": "PS-LU-00790",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35289999999996,
+       39.96779999999993
+      ],
+      [
+       116.35409999999996,
+       39.96779999999993
+      ],
+      [
+       116.35409999999996,
+       39.966599999999936
+      ],
+      [
+       116.35289999999996,
+       39.966599999999936
+      ],
+      [
+       116.35289999999996,
+       39.96779999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00791",
+   "properties": {
+    "id": "PS-LU-00791",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35289999999996,
+       39.96899999999993
+      ],
+      [
+       116.35409999999996,
+       39.96899999999993
+      ],
+      [
+       116.35409999999996,
+       39.96779999999993
+      ],
+      [
+       116.35289999999996,
+       39.96779999999993
+      ],
+      [
+       116.35289999999996,
+       39.96899999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00792",
+   "properties": {
+    "id": "PS-LU-00792",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35289999999996,
+       39.97019999999993
+      ],
+      [
+       116.35409999999996,
+       39.97019999999993
+      ],
+      [
+       116.35409999999996,
+       39.96899999999993
+      ],
+      [
+       116.35289999999996,
+       39.96899999999993
+      ],
+      [
+       116.35289999999996,
+       39.97019999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00793",
+   "properties": {
+    "id": "PS-LU-00793",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35289999999996,
+       39.971399999999925
+      ],
+      [
+       116.35409999999996,
+       39.971399999999925
+      ],
+      [
+       116.35409999999996,
+       39.97019999999993
+      ],
+      [
+       116.35289999999996,
+       39.97019999999993
+      ],
+      [
+       116.35289999999996,
+       39.971399999999925
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00794",
+   "properties": {
+    "id": "PS-LU-00794",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13660.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35289999999996,
+       39.97259999999992
+      ],
+      [
+       116.35409999999996,
+       39.97259999999992
+      ],
+      [
+       116.35409999999996,
+       39.971399999999925
+      ],
+      [
+       116.35289999999996,
+       39.971399999999925
+      ],
+      [
+       116.35289999999996,
+       39.97259999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00795",
+   "properties": {
+    "id": "PS-LU-00795",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13659.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35289999999996,
+       39.97379999999992
+      ],
+      [
+       116.35409999999996,
+       39.97379999999992
+      ],
+      [
+       116.35409999999996,
+       39.97259999999992
+      ],
+      [
+       116.35289999999996,
+       39.97259999999992
+      ],
+      [
+       116.35289999999996,
+       39.97379999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00858",
+   "properties": {
+    "id": "PS-LU-00858",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35409999999996,
+       39.96179999999995
+      ],
+      [
+       116.35529999999996,
+       39.96179999999995
+      ],
+      [
+       116.35529999999996,
+       39.96059999999995
+      ],
+      [
+       116.35409999999996,
+       39.96059999999995
+      ],
+      [
+       116.35409999999996,
+       39.96179999999995
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00859",
+   "properties": {
+    "id": "PS-LU-00859",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13662.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35409999999996,
+       39.962999999999944
+      ],
+      [
+       116.35529999999996,
+       39.962999999999944
+      ],
+      [
+       116.35529999999996,
+       39.96179999999995
+      ],
+      [
+       116.35409999999996,
+       39.96179999999995
+      ],
+      [
+       116.35409999999996,
+       39.962999999999944
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00860",
+   "properties": {
+    "id": "PS-LU-00860",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13661.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35409999999996,
+       39.96419999999994
+      ],
+      [
+       116.35529999999996,
+       39.96419999999994
+      ],
+      [
+       116.35529999999996,
+       39.962999999999944
+      ],
+      [
+       116.35409999999996,
+       39.962999999999944
+      ],
+      [
+       116.35409999999996,
+       39.96419999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00861",
+   "properties": {
+    "id": "PS-LU-00861",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 13600.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35529999999996,
+       39.96419999999994
+      ],
+      [
+       116.35409999999996,
+       39.96419999999994
+      ],
+      [
+       116.35409999999996,
+       39.96539999999994
+      ],
+      [
+       116.35526800000001,
+       39.96539999999994
+      ],
+      [
+       116.35529999999996,
+       39.965000000000536
+      ],
+      [
+       116.35529999999996,
+       39.96419999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00862",
+   "properties": {
+    "id": "PS-LU-00862",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 12750.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35409999999996,
+       39.96539999999994
+      ],
+      [
+       116.35409999999996,
+       39.966599999999936
+      ],
+      [
+       116.35517200000001,
+       39.966599999999936
+      ],
+      [
+       116.35526800000001,
+       39.96539999999994
+      ],
+      [
+       116.35409999999996,
+       39.96539999999994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00863",
+   "properties": {
+    "id": "PS-LU-00863",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 11657.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35409999999996,
+       39.966599999999936
+      ],
+      [
+       116.35409999999996,
+       39.96779999999993
+      ],
+      [
+       116.35507600000001,
+       39.96779999999993
+      ],
+      [
+       116.35517200000001,
+       39.966599999999936
+      ],
+      [
+       116.35409999999996,
+       39.966599999999936
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00864",
+   "properties": {
+    "id": "PS-LU-00864",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 10564.4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35409999999996,
+       39.96779999999993
+      ],
+      [
+       116.35409999999996,
+       39.96899999999993
+      ],
+      [
+       116.35498000000001,
+       39.96899999999993
+      ],
+      [
+       116.35507600000001,
+       39.96779999999993
+      ],
+      [
+       116.35409999999996,
+       39.96779999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00865",
+   "properties": {
+    "id": "PS-LU-00865",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 9471.4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35409999999996,
+       39.96899999999993
+      ],
+      [
+       116.35409999999996,
+       39.97019999999993
+      ],
+      [
+       116.35488400000001,
+       39.97019999999993
+      ],
+      [
+       116.35498000000001,
+       39.96899999999993
+      ],
+      [
+       116.35409999999996,
+       39.96899999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00866",
+   "properties": {
+    "id": "PS-LU-00866",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 8378.4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35409999999996,
+       39.97019999999993
+      ],
+      [
+       116.35409999999996,
+       39.971399999999925
+      ],
+      [
+       116.35478800000001,
+       39.971399999999925
+      ],
+      [
+       116.35488400000001,
+       39.97019999999993
+      ],
+      [
+       116.35409999999996,
+       39.97019999999993
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00867",
+   "properties": {
+    "id": "PS-LU-00867",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 7285.4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35409999999996,
+       39.971399999999925
+      ],
+      [
+       116.35409999999996,
+       39.97259999999992
+      ],
+      [
+       116.35469200000001,
+       39.97259999999992
+      ],
+      [
+       116.35478800000001,
+       39.971399999999925
+      ],
+      [
+       116.35409999999996,
+       39.971399999999925
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00868",
+   "properties": {
+    "id": "PS-LU-00868",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 6192.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35409999999996,
+       39.97259999999992
+      ],
+      [
+       116.35409999999996,
+       39.97379999999992
+      ],
+      [
+       116.35459600000002,
+       39.97379999999992
+      ],
+      [
+       116.35469200000001,
+       39.97259999999992
+      ],
+      [
+       116.35409999999996,
+       39.97259999999992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00912",
+   "properties": {
+    "id": "PS-LU-00912",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 0.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35529999999996,
+       39.96059999999995
+      ],
+      [
+       116.35529999999996,
+       39.96179999999995
+      ],
+      [
+       116.3553,
+       39.96179999999995
+      ],
+      [
+       116.3553,
+       39.96059999999995
+      ],
+      [
+       116.35529999999996,
+       39.96059999999995
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00913",
+   "properties": {
+    "id": "PS-LU-00913",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 0.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35529999999996,
+       39.96179999999995
+      ],
+      [
+       116.35529999999996,
+       39.962999999999944
+      ],
+      [
+       116.3553,
+       39.962999999999944
+      ],
+      [
+       116.3553,
+       39.96179999999995
+      ],
+      [
+       116.35529999999996,
+       39.96179999999995
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00914",
+   "properties": {
+    "id": "PS-LU-00914",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 0.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35529999999996,
+       39.962999999999944
+      ],
+      [
+       116.35529999999996,
+       39.96419999999994
+      ],
+      [
+       116.3553,
+       39.96419999999994
+      ],
+      [
+       116.3553,
+       39.962999999999944
+      ],
+      [
+       116.35529999999996,
+       39.962999999999944
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PS-LU-00915",
+   "properties": {
+    "id": "PS-LU-00915",
+    "layer": "PUBLIC_SPACE",
+    "public_type": "1401",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "area_sqm": 0.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.35529999999996,
+       39.96419999999994
+      ],
+      [
+       116.35529999999996,
+       39.965000000000536
+      ],
+      [
+       116.3553,
+       39.965
+      ],
+      [
+       116.3553,
+       39.96419999999994
+      ],
+      [
+       116.35529999999996,
+       39.96419999999994
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

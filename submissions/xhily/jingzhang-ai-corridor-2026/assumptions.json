@@ -1,0 +1,65 @@
+{
+ "schema_version": "0.1.0",
+ "assumptions": [
+  {
+   "id": "A-PROVISIONAL-BOUNDARY",
+   "statement_zh": "总体与重点范围采用 provisional 边界，非官方红线，待正式附件替换后重算。",
+   "category": "data_or_method_assumption"
+  },
+  {
+   "id": "A-NO-OFFICIAL-RED-LINE",
+   "statement_zh": "现状文保、蓝线、绿线、道路红线等法定管控边界暂未作为 official 图层提供。",
+   "category": "data_or_method_assumption"
+  },
+  {
+   "id": "A-POP-ESTIMATE",
+   "statement_zh": "人口与就业岗位采用海淀区公开统计与同尺度片区外推估算。",
+   "category": "data_or_method_assumption"
+  },
+  {
+   "id": "A-TRANSIT-LOAD",
+   "statement_zh": "轨道与公交客流为基于线网规划的估算，非实测 OD。",
+   "category": "data_or_method_assumption"
+  },
+  {
+   "id": "A-CLIMATE-NORMALS",
+   "statement_zh": "风环境与微气候采用北京气候常态近似，未做 CFD 专项模拟。",
+   "category": "data_or_method_assumption"
+  },
+  {
+   "id": "A-LAND-VALUE",
+   "statement_zh": "土地价值与更新收益为非严谨财务测算，仅供排序。",
+   "category": "data_or_method_assumption"
+  },
+  {
+   "id": "A-AI-INDUSTRY-BENCHMARK",
+   "statement_zh": "AI 产业规模与算力需求参照公开行业报告假设。",
+   "category": "data_or_method_assumption"
+  },
+  {
+   "id": "A-OPEN-DATA-SOURCES",
+   "statement_zh": "道路/用地/POI 部分来自开放数据推测，精度有限。",
+   "category": "data_or_method_assumption"
+  },
+  {
+   "id": "A-PHASING-POLICY",
+   "statement_zh": "分期与政策假设基于征集任务书与既有更新经验。",
+   "category": "data_or_method_assumption"
+  },
+  {
+   "id": "A-CAPACITY-ASSUMPTION",
+   "statement_zh": "公共服务设施容量按规范人均指标粗略反算。",
+   "category": "data_or_method_assumption"
+  },
+  {
+   "id": "A-CARBON-ASSUMPTION",
+   "statement_zh": "碳汇与能耗为方向性估算，未做全生命周期核算。",
+   "category": "data_or_method_assumption"
+  },
+  {
+   "id": "A-EQUITY-ASSUMPTION",
+   "statement_zh": "公平与包容性措施为原则性设计建议。",
+   "category": "data_or_method_assumption"
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+ "type": "FeatureCollection",
+ "name": "constraints",
+ "metadata": {
+  "data_gap": "现状文保、蓝线、绿地与道路红线等法定管控边界暂未作为 official 图层提供；本包以 provisional 总体范围表达设计意向，正式管控以官方红线为准。"
+ },
+ "features": []
+}

@@ -1,0 +1,138 @@
+{
+ "type": "FeatureCollection",
+ "name": "phasing",
+ "features": [
+  {
+   "type": "Feature",
+   "id": "PH-1",
+   "properties": {
+    "id": "PH-1",
+    "layer": "PHASE",
+    "phase_name_zh": "近期 2026-2028 启动段（众智园+活力带示范）",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal",
+    "area_sqm": 4341510.1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34066774193548,
+       39.99
+      ],
+      [
+       116.3417,
+       40.006
+      ],
+      [
+       116.3427,
+       40.0265
+      ],
+      [
+       116.3553,
+       40.0265
+      ],
+      [
+       116.3533,
+       39.99
+      ],
+      [
+       116.34066774193548,
+       39.99
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PH-2",
+   "properties": {
+    "id": "PH-2",
+    "layer": "PHASE",
+    "phase_name_zh": "中期 2028-2030 拓展段（AI原点社区+大钟寺）",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal",
+    "area_sqm": 4103776.7
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34011666666666,
+       39.96
+      ],
+      [
+       116.3397,
+       39.975
+      ],
+      [
+       116.34066774193548,
+       39.99
+      ],
+      [
+       116.3533,
+       39.99
+      ],
+      [
+       116.3553,
+       39.965
+      ],
+      [
+       116.3553,
+       39.96
+      ],
+      [
+       116.34011666666666,
+       39.96
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PH-3",
+   "properties": {
+    "id": "PH-3",
+    "layer": "PHASE",
+    "phase_name_zh": "远期 2030-2035 完整体（全域协同）",
+    "source_type": "agent_generated_design",
+    "confidence": "low",
+    "geometry_role": "design_proposal",
+    "area_sqm": 2967534.7
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.3553,
+       39.939
+      ],
+      [
+       116.3407,
+       39.939
+      ],
+      [
+       116.34011666666666,
+       39.96
+      ],
+      [
+       116.3553,
+       39.96
+      ],
+      [
+       116.3553,
+       39.939
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

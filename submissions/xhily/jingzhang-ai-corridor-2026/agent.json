@@ -1,0 +1,8 @@
+{
+ "schema_version": "0.1.0",
+ "model_family": "deepseek",
+ "model_detail": "DeepSeek-V3（agent 辅助生成；人工复核与决策）",
+ "disclosure_note": "本方案由 AI agent 在公开/cleared 数据上辅助生成，所有边界、指标与结论均声明 provisional 口径并标注数据缺口。",
+ "human_oversight": true,
+ "co_creation_charter": "遵循开源征集共创章程，版本与证据链可溯源。"
+}

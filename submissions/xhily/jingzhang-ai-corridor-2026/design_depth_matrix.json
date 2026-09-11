@@ -1,0 +1,578 @@
+{
+ "schema_version": "0.1.0",
+ "items": [
+  {
+   "item_id": "existing_conditions_diagnosis",
+   "title_zh": "现状与问题诊断",
+   "professional_dimension": "城市设计与更新",
+   "required": true,
+   "status": "complete",
+   "evidence_summary_zh": "已完成「现状与问题诊断」，由几何与指标复算支撑，并在合规矩阵与可视化中可追溯。",
+   "proposal_sections": [
+    "统筹研究范围产业与未来城市研究",
+    "总体设计范围城市更新与控规深度城市设计"
+   ],
+   "drawing_refs": [
+    "drawings/a3-booklet.pdf",
+    "drawings/a0-boards.pdf"
+   ],
+   "geometry_refs": [
+    "land_use.geojson",
+    "green_space.geojson",
+    "public_space.geojson"
+   ],
+   "metric_refs": [
+    "green_space_area_sqm",
+    "public_space_area_sqm"
+   ],
+   "source_ids": [
+    "SRC-OFFICIAL-ANNOUNCEMENT",
+    "SRC-AGENT-TASKBOOK",
+    "SRC-OPEN-DATA"
+   ],
+   "assumption_ids": [
+    "A-PROVISIONAL-BOUNDARY",
+    "A-OPEN-DATA-SOURCES"
+   ],
+   "self_check_ids": [
+    "SC-DETERMINISTIC",
+    "SC-SPATIAL",
+    "SC-VISUAL",
+    "SC-PROFESSIONAL"
+   ]
+  },
+  {
+   "item_id": "three_level_scope_framework",
+   "title_zh": "三层范围工作框架",
+   "professional_dimension": "城市设计与更新",
+   "required": true,
+   "status": "complete",
+   "evidence_summary_zh": "已完成「三层范围工作框架」，由几何与指标复算支撑，并在合规矩阵与可视化中可追溯。",
+   "proposal_sections": [
+    "三层范围工作框架"
+   ],
+   "drawing_refs": [
+    "drawings/a3-booklet.pdf",
+    "drawings/a0-boards.pdf"
+   ],
+   "geometry_refs": [
+    "site_boundary.geojson",
+    "key_areas.geojson"
+   ],
+   "metric_refs": [
+    "site_area_sqm",
+    "key_areas_total_sqm"
+   ],
+   "source_ids": [
+    "SRC-OFFICIAL-ANNOUNCEMENT",
+    "SRC-AGENT-TASKBOOK",
+    "SRC-OPEN-DATA"
+   ],
+   "assumption_ids": [
+    "A-PROVISIONAL-BOUNDARY",
+    "A-OPEN-DATA-SOURCES"
+   ],
+   "self_check_ids": [
+    "SC-DETERMINISTIC",
+    "SC-SPATIAL",
+    "SC-VISUAL",
+    "SC-PROFESSIONAL"
+   ]
+  },
+  {
+   "item_id": "overall_spatial_structure",
+   "title_zh": "总体空间结构",
+   "professional_dimension": "城市设计与更新",
+   "required": true,
+   "status": "complete",
+   "evidence_summary_zh": "已完成「总体空间结构」，由几何与指标复算支撑，并在合规矩阵与可视化中可追溯。",
+   "proposal_sections": [
+    "总体设计范围城市更新与控规深度城市设计"
+   ],
+   "drawing_refs": [
+    "drawings/a3-booklet.pdf",
+    "drawings/a0-boards.pdf"
+   ],
+   "geometry_refs": [
+    "land_use.geojson",
+    "key_areas.geojson"
+   ],
+   "metric_refs": [
+    "site_area_sqm"
+   ],
+   "source_ids": [
+    "SRC-OFFICIAL-ANNOUNCEMENT",
+    "SRC-AGENT-TASKBOOK",
+    "SRC-OPEN-DATA"
+   ],
+   "assumption_ids": [
+    "A-PROVISIONAL-BOUNDARY",
+    "A-OPEN-DATA-SOURCES"
+   ],
+   "self_check_ids": [
+    "SC-DETERMINISTIC",
+    "SC-SPATIAL",
+    "SC-VISUAL",
+    "SC-PROFESSIONAL"
+   ]
+  },
+  {
+   "item_id": "land_use_layout",
+   "title_zh": "用地布局",
+   "professional_dimension": "城市设计与更新",
+   "required": true,
+   "status": "complete",
+   "evidence_summary_zh": "已完成「用地布局」，由几何与指标复算支撑，并在合规矩阵与可视化中可追溯。",
+   "proposal_sections": [
+    "用地、建筑规模与拆改留方案"
+   ],
+   "drawing_refs": [
+    "drawings/a3-booklet.pdf",
+    "drawings/a0-boards.pdf"
+   ],
+   "geometry_refs": [
+    "land_use.geojson"
+   ],
+   "metric_refs": [
+    "site_area_sqm",
+    "green_ratio"
+   ],
+   "source_ids": [
+    "SRC-OFFICIAL-ANNOUNCEMENT",
+    "SRC-AGENT-TASKBOOK",
+    "SRC-OPEN-DATA"
+   ],
+   "assumption_ids": [
+    "A-PROVISIONAL-BOUNDARY",
+    "A-OPEN-DATA-SOURCES"
+   ],
+   "self_check_ids": [
+    "SC-DETERMINISTIC",
+    "SC-SPATIAL",
+    "SC-VISUAL",
+    "SC-PROFESSIONAL"
+   ]
+  },
+  {
+   "item_id": "development_intensity_controls",
+   "title_zh": "开发强度管控",
+   "professional_dimension": "城市设计与更新",
+   "required": true,
+   "status": "complete",
+   "evidence_summary_zh": "已完成「开发强度管控」，由几何与指标复算支撑，并在合规矩阵与可视化中可追溯。",
+   "proposal_sections": [
+    "用地、建筑规模与拆改留方案"
+   ],
+   "drawing_refs": [
+    "drawings/a3-booklet.pdf",
+    "drawings/a0-boards.pdf"
+   ],
+   "geometry_refs": [
+    "buildings.geojson",
+    "land_use.geojson"
+   ],
+   "metric_refs": [
+    "building_footprint_area_sqm",
+    "building_count"
+   ],
+   "source_ids": [
+    "SRC-OFFICIAL-ANNOUNCEMENT",
+    "SRC-AGENT-TASKBOOK",
+    "SRC-OPEN-DATA"
+   ],
+   "assumption_ids": [
+    "A-PROVISIONAL-BOUNDARY",
+    "A-OPEN-DATA-SOURCES"
+   ],
+   "self_check_ids": [
+    "SC-DETERMINISTIC",
+    "SC-SPATIAL",
+    "SC-VISUAL",
+    "SC-PROFESSIONAL"
+   ]
+  },
+  {
+   "item_id": "height_massing_character",
+   "title_zh": "高度与体量风貌",
+   "professional_dimension": "城市设计与更新",
+   "required": true,
+   "status": "complete",
+   "evidence_summary_zh": "已完成「高度与体量风貌」，由几何与指标复算支撑，并在合规矩阵与可视化中可追溯。",
+   "proposal_sections": [
+    "重点区域详细设计",
+    "蓝绿空间、公共空间与城市风貌"
+   ],
+   "drawing_refs": [
+    "drawings/a3-booklet.pdf",
+    "drawings/a0-boards.pdf"
+   ],
+   "geometry_refs": [
+    "buildings.geojson",
+    "key_areas.geojson"
+   ],
+   "metric_refs": [
+    "key_areas_total_sqm"
+   ],
+   "source_ids": [
+    "SRC-OFFICIAL-ANNOUNCEMENT",
+    "SRC-AGENT-TASKBOOK",
+    "SRC-OPEN-DATA"
+   ],
+   "assumption_ids": [
+    "A-PROVISIONAL-BOUNDARY",
+    "A-OPEN-DATA-SOURCES"
+   ],
+   "self_check_ids": [
+    "SC-DETERMINISTIC",
+    "SC-SPATIAL",
+    "SC-VISUAL",
+    "SC-PROFESSIONAL"
+   ]
+  },
+  {
+   "item_id": "retain_renovate_demolish",
+   "title_zh": "拆改留方案",
+   "professional_dimension": "城市设计与更新",
+   "required": true,
+   "status": "complete",
+   "evidence_summary_zh": "已完成「拆改留方案」，由几何与指标复算支撑，并在合规矩阵与可视化中可追溯。",
+   "proposal_sections": [
+    "用地、建筑规模与拆改留方案"
+   ],
+   "drawing_refs": [
+    "drawings/a3-booklet.pdf",
+    "drawings/a0-boards.pdf"
+   ],
+   "geometry_refs": [
+    "land_use.geojson",
+    "buildings.geojson"
+   ],
+   "metric_refs": [
+    "building_footprint_area_sqm"
+   ],
+   "source_ids": [
+    "SRC-OFFICIAL-ANNOUNCEMENT",
+    "SRC-AGENT-TASKBOOK",
+    "SRC-OPEN-DATA"
+   ],
+   "assumption_ids": [
+    "A-PROVISIONAL-BOUNDARY",
+    "A-OPEN-DATA-SOURCES"
+   ],
+   "self_check_ids": [
+    "SC-DETERMINISTIC",
+    "SC-SPATIAL",
+    "SC-VISUAL",
+    "SC-PROFESSIONAL"
+   ]
+  },
+  {
+   "item_id": "traffic_rail_slow_parking",
+   "title_zh": "交通、轨道、慢行与停车",
+   "professional_dimension": "城市设计与更新",
+   "required": true,
+   "status": "complete",
+   "evidence_summary_zh": "已完成「交通、轨道、慢行与停车」，由几何与指标复算支撑，并在合规矩阵与可视化中可追溯。",
+   "proposal_sections": [
+    "交通、轨道、市政与公共服务设施"
+   ],
+   "drawing_refs": [
+    "drawings/a3-booklet.pdf",
+    "drawings/a0-boards.pdf"
+   ],
+   "geometry_refs": [
+    "roads.geojson",
+    "site_boundary.geojson"
+   ],
+   "metric_refs": [
+    "road_length_km"
+   ],
+   "source_ids": [
+    "SRC-OFFICIAL-ANNOUNCEMENT",
+    "SRC-AGENT-TASKBOOK",
+    "SRC-OPEN-DATA"
+   ],
+   "assumption_ids": [
+    "A-PROVISIONAL-BOUNDARY",
+    "A-OPEN-DATA-SOURCES"
+   ],
+   "self_check_ids": [
+    "SC-DETERMINISTIC",
+    "SC-SPATIAL",
+    "SC-VISUAL",
+    "SC-PROFESSIONAL"
+   ]
+  },
+  {
+   "item_id": "municipal_new_infrastructure",
+   "title_zh": "市政与新型基础设施",
+   "professional_dimension": "城市设计与更新",
+   "required": true,
+   "status": "complete",
+   "evidence_summary_zh": "已完成「市政与新型基础设施」，由几何与指标复算支撑，并在合规矩阵与可视化中可追溯。",
+   "proposal_sections": [
+    "交通、轨道、市政与公共服务设施"
+   ],
+   "drawing_refs": [
+    "drawings/a3-booklet.pdf",
+    "drawings/a0-boards.pdf"
+   ],
+   "geometry_refs": [
+    "roads.geojson",
+    "land_use.geojson"
+   ],
+   "metric_refs": [
+    "road_length_km"
+   ],
+   "source_ids": [
+    "SRC-OFFICIAL-ANNOUNCEMENT",
+    "SRC-AGENT-TASKBOOK",
+    "SRC-OPEN-DATA"
+   ],
+   "assumption_ids": [
+    "A-PROVISIONAL-BOUNDARY",
+    "A-OPEN-DATA-SOURCES"
+   ],
+   "self_check_ids": [
+    "SC-DETERMINISTIC",
+    "SC-SPATIAL",
+    "SC-VISUAL",
+    "SC-PROFESSIONAL"
+   ]
+  },
+  {
+   "item_id": "blue_green_public_space",
+   "title_zh": "蓝绿与公共空间",
+   "professional_dimension": "城市设计与更新",
+   "required": true,
+   "status": "complete",
+   "evidence_summary_zh": "已完成「蓝绿与公共空间」，由几何与指标复算支撑，并在合规矩阵与可视化中可追溯。",
+   "proposal_sections": [
+    "蓝绿空间、公共空间与城市风貌"
+   ],
+   "drawing_refs": [
+    "drawings/a3-booklet.pdf",
+    "drawings/a0-boards.pdf"
+   ],
+   "geometry_refs": [
+    "green_space.geojson",
+    "public_space.geojson"
+   ],
+   "metric_refs": [
+    "green_space_area_sqm",
+    "public_space_area_sqm",
+    "green_ratio",
+    "public_space_ratio"
+   ],
+   "source_ids": [
+    "SRC-OFFICIAL-ANNOUNCEMENT",
+    "SRC-AGENT-TASKBOOK",
+    "SRC-OPEN-DATA"
+   ],
+   "assumption_ids": [
+    "A-PROVISIONAL-BOUNDARY",
+    "A-OPEN-DATA-SOURCES"
+   ],
+   "self_check_ids": [
+    "SC-DETERMINISTIC",
+    "SC-SPATIAL",
+    "SC-VISUAL",
+    "SC-PROFESSIONAL"
+   ]
+  },
+  {
+   "item_id": "three_key_area_detailed_design",
+   "title_zh": "三重点区域详细设计",
+   "professional_dimension": "城市设计与更新",
+   "required": true,
+   "status": "complete",
+   "evidence_summary_zh": "已完成「三重点区域详细设计」，由几何与指标复算支撑，并在合规矩阵与可视化中可追溯。",
+   "proposal_sections": [
+    "重点区域详细设计"
+   ],
+   "drawing_refs": [
+    "drawings/a3-booklet.pdf",
+    "drawings/a0-boards.pdf"
+   ],
+   "geometry_refs": [
+    "key_areas.geojson",
+    "buildings.geojson"
+   ],
+   "metric_refs": [
+    "key_areas_total_sqm"
+   ],
+   "source_ids": [
+    "SRC-OFFICIAL-ANNOUNCEMENT",
+    "SRC-AGENT-TASKBOOK",
+    "SRC-OPEN-DATA"
+   ],
+   "assumption_ids": [
+    "A-PROVISIONAL-BOUNDARY",
+    "A-OPEN-DATA-SOURCES"
+   ],
+   "self_check_ids": [
+    "SC-DETERMINISTIC",
+    "SC-SPATIAL",
+    "SC-VISUAL",
+    "SC-PROFESSIONAL"
+   ]
+  },
+  {
+   "item_id": "renewal_project_list",
+   "title_zh": "更新项目清单",
+   "professional_dimension": "城市设计与更新",
+   "required": true,
+   "status": "complete",
+   "evidence_summary_zh": "已完成「更新项目清单」，由几何与指标复算支撑，并在合规矩阵与可视化中可追溯。",
+   "proposal_sections": [
+    "更新项目清单、实施政策与分期计划"
+   ],
+   "drawing_refs": [
+    "drawings/a3-booklet.pdf",
+    "drawings/a0-boards.pdf"
+   ],
+   "geometry_refs": [
+    "phasing.geojson",
+    "land_use.geojson"
+   ],
+   "metric_refs": [
+    "key_areas_total_sqm"
+   ],
+   "source_ids": [
+    "SRC-OFFICIAL-ANNOUNCEMENT",
+    "SRC-AGENT-TASKBOOK",
+    "SRC-OPEN-DATA"
+   ],
+   "assumption_ids": [
+    "A-PROVISIONAL-BOUNDARY",
+    "A-OPEN-DATA-SOURCES"
+   ],
+   "self_check_ids": [
+    "SC-DETERMINISTIC",
+    "SC-SPATIAL",
+    "SC-VISUAL",
+    "SC-PROFESSIONAL"
+   ]
+  },
+  {
+   "item_id": "phasing_implementation",
+   "title_zh": "分期实施",
+   "professional_dimension": "城市设计与更新",
+   "required": true,
+   "status": "complete",
+   "evidence_summary_zh": "已完成「分期实施」，由几何与指标复算支撑，并在合规矩阵与可视化中可追溯。",
+   "proposal_sections": [
+    "更新项目清单、实施政策与分期计划"
+   ],
+   "drawing_refs": [
+    "drawings/a3-booklet.pdf",
+    "drawings/a0-boards.pdf"
+   ],
+   "geometry_refs": [
+    "phasing.geojson"
+   ],
+   "metric_refs": [
+    "key_areas_total_sqm"
+   ],
+   "source_ids": [
+    "SRC-OFFICIAL-ANNOUNCEMENT",
+    "SRC-AGENT-TASKBOOK",
+    "SRC-OPEN-DATA"
+   ],
+   "assumption_ids": [
+    "A-PROVISIONAL-BOUNDARY",
+    "A-OPEN-DATA-SOURCES"
+   ],
+   "self_check_ids": [
+    "SC-DETERMINISTIC",
+    "SC-SPATIAL",
+    "SC-VISUAL",
+    "SC-PROFESSIONAL"
+   ]
+  },
+  {
+   "item_id": "metrics_recalculation",
+   "title_zh": "指标体系与面积复算",
+   "professional_dimension": "城市设计与更新",
+   "required": true,
+   "status": "complete",
+   "evidence_summary_zh": "已完成「指标体系与面积复算」，由几何与指标复算支撑，并在合规矩阵与可视化中可追溯。",
+   "proposal_sections": [
+    "指标体系、面积复算与合规矩阵"
+   ],
+   "drawing_refs": [
+    "drawings/a3-booklet.pdf",
+    "drawings/a0-boards.pdf"
+   ],
+   "geometry_refs": [
+    "site_boundary.geojson",
+    "key_areas.geojson",
+    "land_use.geojson",
+    "buildings.geojson",
+    "roads.geojson",
+    "green_space.geojson",
+    "public_space.geojson",
+    "constraints.geojson",
+    "phasing.geojson"
+   ],
+   "metric_refs": [
+    "site_area_sqm",
+    "green_space_area_sqm",
+    "public_space_area_sqm",
+    "green_ratio",
+    "public_space_ratio"
+   ],
+   "source_ids": [
+    "SRC-OFFICIAL-ANNOUNCEMENT",
+    "SRC-AGENT-TASKBOOK",
+    "SRC-OPEN-DATA"
+   ],
+   "assumption_ids": [
+    "A-PROVISIONAL-BOUNDARY",
+    "A-OPEN-DATA-SOURCES"
+   ],
+   "self_check_ids": [
+    "SC-DETERMINISTIC",
+    "SC-SPATIAL",
+    "SC-VISUAL",
+    "SC-PROFESSIONAL"
+   ]
+  },
+  {
+   "item_id": "risk_missing_data",
+   "title_zh": "风险与缺失数据",
+   "professional_dimension": "城市设计与更新",
+   "required": true,
+   "status": "complete",
+   "evidence_summary_zh": "已完成「风险与缺失数据」，由几何与指标复算支撑，并在合规矩阵与可视化中可追溯。",
+   "proposal_sections": [
+    "风险、版权与合规说明"
+   ],
+   "drawing_refs": [
+    "drawings/a3-booklet.pdf",
+    "drawings/a0-boards.pdf"
+   ],
+   "geometry_refs": [
+    "constraints.geojson"
+   ],
+   "metric_refs": [
+    "site_area_sqm"
+   ],
+   "source_ids": [
+    "SRC-OFFICIAL-ANNOUNCEMENT",
+    "SRC-AGENT-TASKBOOK",
+    "SRC-OPEN-DATA"
+   ],
+   "assumption_ids": [
+    "A-PROVISIONAL-BOUNDARY",
+    "A-OPEN-DATA-SOURCES"
+   ],
+   "self_check_ids": [
+    "SC-DETERMINISTIC",
+    "SC-SPATIAL",
+    "SC-VISUAL",
+    "SC-PROFESSIONAL"
+   ]
+  }
+ ]
+}

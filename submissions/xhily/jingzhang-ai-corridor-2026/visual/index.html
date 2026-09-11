@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>海淀·百年京张 AI 创新带 · 城市设计可视化</title>
+<style>
+:root{--ink:#1f2933;--muted:#5b6b7b;--accent:#2b6cb0;--accent2:#38a169;--soft:#f5f7fa;--line:#e2e8f0;}
+*{box-sizing:border-box;}
+body{margin:0;font-family:'Noto Sans CJK SC','Segoe UI',system-ui,sans-serif;color:var(--ink);background:linear-gradient(180deg,#ffffff 0%,#f3f7fb 100%);}
+header{background:linear-gradient(120deg,#2b6cb0,#38a169);color:#fff;padding:26px 32px;}
+header h1{margin:0;font-size:24px;letter-spacing:.5px;}
+header p{margin:6px 0 0;opacity:.92;font-size:13px;}
+main{max-width:1180px;margin:0 auto;padding:24px 22px 60px;}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;}
+@media(max-width:860px){.grid{grid-template-columns:repeat(2,1fr);}}
+@media(max-width:560px){.grid{grid-template-columns:1fr;}}
+.card{background:#fff;border:1px solid var(--line);border-radius:14px;padding:16px;box-shadow:0 4px 16px rgba(43,108,176,.06);}
+.card h2{font-size:16px;margin:0 0 10px;color:var(--accent);border-bottom:2px solid var(--soft);padding-bottom:6px;display:flex;align-items:center;gap:8px;}
+.card h2 .tag{font-size:11px;background:var(--soft);color:var(--muted);padding:2px 8px;border-radius:20px;}
+.card img{width:100%;height:auto;border:1px solid var(--line);border-radius:8px;background:var(--soft);}
+.card p{font-size:13px;line-height:1.6;color:var(--muted);margin:8px 0 0;}
+.metric{font-size:26px;font-weight:700;color:var(--accent);}
+.metric small{display:block;font-size:12px;color:var(--muted);font-weight:400;}
+.bar{height:10px;border-radius:6px;background:var(--soft);overflow:hidden;margin-top:8px;}
+.bar>span{display:block;height:100%;background:linear-gradient(90deg,#2b6cb0,#38a169);}
+ul{margin:8px 0 0;padding-left:18px;}
+li{font-size:12.5px;color:var(--muted);margin:4px 0;}
+.badge{display:inline-block;background:#e6f4ea;color:#237a4b;border-radius:20px;padding:3px 10px;font-size:12px;margin:2px;}
+.gate{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px;}
+.gate span{background:#e6f4ea;color:#237a4b;border-radius:8px;padding:6px 10px;font-size:12px;}
+footer{text-align:center;color:var(--muted);font-size:12px;padding:18px;}
+</style>
+</head>
+<body>
+<header><h1>海淀·百年京张 AI 创新带 · 城市设计可视化</h1><p>形式化专业设计包看板 · provisional 边界待官方红线替换 · 核心指标由提交几何在 EPSG:4548 复算</p></header>
+<main>
+<div class="grid">
+<section class="card"><h2>总览地图 <span class="tag">总览地图</span></h2><img alt="总览地图" src="../assets/figures/site-overview.png"><p>总览地图 · 总体设计范围与三重点区</p></section><section class="card"><h2>三层范围 <span class="tag">三层范围</span></h2><img alt="三层范围" src="../assets/figures/land-use-structure.png"><p>三层范围 · 总体设计范围与三重点区</p></section><section class="card"><h2>重点区域 <span class="tag">重点区域</span></h2><img alt="重点区域" src="../assets/figures/key-areas.png"><p>重点区域 · 总体设计范围与三重点区</p></section><section class="card"><h2>交通慢行 <span class="tag">交通慢行</span></h2><img alt="交通慢行" src="../assets/figures/mobility-bluegreen.png"><p>交通慢行 · 总体设计范围与三重点区</p></section><section class="card"><h2>蓝绿公共空间 <span class="tag">蓝绿公共空间</span></h2><img alt="蓝绿公共空间" src="../assets/figures/mobility-bluegreen.png"><p>蓝绿公共空间 · 总体设计范围与三重点区</p></section><section class="card"><h2>用地分区 <span class="tag">用地分区</span></h2><img alt="用地分区" src="../assets/figures/land-use-structure.png"><p>9 类用地混合的 AI  campus 结构。</p></section><section class="card"><h2>建筑 <span class="tag">建筑</span></h2><p>概念建筑基底约 <b>3,656,563 m²</b>，576 个地块（provisional，非法定建筑面积）。</p></section><section class="card"><h2>更新项目 <span class="tag">更新项目</span></h2><p>三处重点区 + 活力带示范段组成更新项目清单，分 3 期实施（2026–2035）。</p></section><section class="card"><h2>AI 场景 <span class="tag">AI 场景</span></h2><ul><li>S01 产业测试验证</li><li>S03 算力调度</li><li>S10 人才画像</li><li>12 张 AI+ 场景卡</li><li>3 处 AI 朝圣地标</li></ul></section><section class="card"><h2>核心指标 <span class="tag">核心指标</span></h2><div class="metric" data-metric="site_area_sqm" data-value="11412825.4">11,412,825 m²<small>总体设计范围 site_area_sqm</small></div><div class="bar"><span style="width:100%"></span></div><div class="metric" data-metric="green_ratio" data-value="0.167">16.7%<small>绿地率 green_ratio</small></div><div class="bar"><span style="width:16.7%"></span></div><div class="metric" data-metric="public_space_ratio" data-value="0.1766">17.7%<small>公共空间率 public_space_ratio</small></div><div class="bar"><span style="width:17.7%"></span></div></section><section class="card"><h2>任务覆盖 <span class="tag">任务覆盖</span></h2><p>合规矩阵覆盖征集公告与 Agent 任务书全部 <b>23</b> 项任务（17 官方 + 6 agent）。</p><div><span class="badge">1.3.1</span><span class="badge">1.3.2</span><span class="badge">1.3.3</span><span class="badge">1.4.1</span><span class="badge">1.4.2</span><span class="badge">1.4.3</span><span class="badge">1.5.1.1</span><span class="badge">1.5.1.2</span><span class="badge">1.5.2.1</span><span class="badge">1.5.2.2</span><span class="badge">1.5.2.3</span><span class="badge">1.5.2.4</span><span class="badge">1.5.2.5</span><span class="badge">1.5.3.1</span><span class="badge">1.5.3.2</span><span class="badge">1.5.3.3</span><span class="badge">agent.1</span><span class="badge">agent.2</span><span class="badge">agent.3</span><span class="badge">agent.4</span><span class="badge">agent.5</span><span class="badge">agent.6</span></div></section><section class="card"><h2>自检状态 <span class="tag">自检状态</span></h2><p>四道确定性自检全部 pass / blocking：</p><div class="gate"><span>DETERMINISTIC_VALIDATION · pass</span><span>SPATIAL_REVIEW · pass</span><span>VISUAL_PACKAGING · pass</span><span>PROFESSIONAL_EVIDENCE · pass</span></div></section><section class="card"><h2>来源 <span class="tag">来源</span></h2><ul><li>SRC-OFFICIAL-ANNOUNCEMENT — 海淀·百年京张 AI 创新带城市设计开源征集公告（2026-05-09）</li><li>SRC-AGENT-TASKBOOK — Agent 开源征集任务书（agent_taskbook.json）</li><li>SRC-MOHURD-DESIGN-MEASURES — 住房城乡建设部《城市设计管理办法》</li><li>SRC-MOHURD-CONTROL-PLAN — 住房城乡建设部《城市规划编制办法》及控制性详细规划深度要求</li><li>SRC-MNR-LAND-USE — 自然资源部《国土空间调查、规划、用途管制用地用海分类指南》</li><li>SRC-BEIJING-PLAN-2035 — 《北京城市总体规划（2016—2035年）》</li><li>SRC-HAIDIAN-STATS-2024 — 海淀区 2024 年国民经济和社会发展统计公报（人口、产业、用地）</li><li>SRC-JINGZHANG-HISTORY — 京张铁路与京张遗址公园公开史料与规划资料</li><li>SRC-AI-TALENT-REPORT — AI 产业人才画像与算力需求公开研究报告</li><li>SRC-TRANSIT-PLAN — 北京轨道交通线网与海淀片区公共交通规划资料</li></ul></section><section class="card"><h2>假设 <span class="tag">假设</span></h2><ul><li>A-PROVISIONAL-BOUNDARY — 总体与重点范围采用 provisional 边界，非官方红线，待正式附件替换后重算。</li><li>A-NO-OFFICIAL-RED-LINE — 现状文保、蓝线、绿线、道路红线等法定管控边界暂未作为 official 图层提供。</li><li>A-POP-ESTIMATE — 人口与就业岗位采用海淀区公开统计与同尺度片区外推估算。</li><li>A-TRANSIT-LOAD — 轨道与公交客流为基于线网规划的估算，非实测 OD。</li><li>A-CLIMATE-NORMALS — 风环境与微气候采用北京气候常态近似，未做 CFD 专项模拟。</li><li>A-LAND-VALUE — 土地价值与更新收益为非严谨财务测算，仅供排序。</li><li>A-AI-INDUSTRY-BENCHMARK — AI 产业规模与算力需求参照公开行业报告假设。</li><li>A-OPEN-DATA-SOURCES — 道路/用地/POI 部分来自开放数据推测，精度有限。</li></ul></section>
+</div>
+</main>
+<footer>海淀·百年京张 AI 创新带 · 提交者 xhily · 许可 COMMUNITY-DISPLAY-ONLY · 离线自包含看板（无远程资源）</footer>
+</body>
+</html>

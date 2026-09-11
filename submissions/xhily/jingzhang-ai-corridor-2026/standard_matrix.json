@@ -1,0 +1,214 @@
+{
+ "schema_version": "0.1.0",
+ "standards": [
+  {
+   "standard_id": "PROJECT-OFFICIAL-ANNOUNCEMENT",
+   "requirement_zh": "征集公告明确的对象、范围、成果与评审要求",
+   "professional_dimension": "规划符合性",
+   "review_status": "addressed",
+   "mandatory": true,
+   "evidence_summary_zh": "已在正文与几何/指标中落实「征集公告明确的对象、范围、成果与评审要求」，并以 provisional 边界声明数据缺口与重算口径。",
+   "proposal_sections": [
+    "设计依据与资料清单",
+    "三层范围工作框架",
+    "指标体系、面积复算与合规矩阵"
+   ],
+   "drawing_refs": [
+    "drawings/a3-booklet.pdf",
+    "drawings/a0-boards.pdf"
+   ],
+   "geometry_refs": [
+    "site_boundary.geojson",
+    "key_areas.geojson"
+   ],
+   "metric_refs": [
+    "site_area_sqm",
+    "key_areas_total_sqm"
+   ],
+   "source_ids": [
+    "SRC-OFFICIAL-ANNOUNCEMENT",
+    "SRC-AGENT-TASKBOOK"
+   ],
+   "assumption_ids": [
+    "A-PROVISIONAL-BOUNDARY"
+   ],
+   "self_check_ids": [
+    "SC-DETERMINISTIC",
+    "SC-SPATIAL",
+    "SC-VISUAL",
+    "SC-PROFESSIONAL"
+   ]
+  },
+  {
+   "standard_id": "PROJECT-AGENT-OPEN-CALL-TASKBOOK",
+   "requirement_zh": "Agent 任务书对 AI 生态、数据合规、人才画像、开源协作与证据自证的专项要求",
+   "professional_dimension": "AI 专业维度",
+   "review_status": "addressed",
+   "mandatory": true,
+   "evidence_summary_zh": "已在正文与几何/指标中落实「Agent 任务书对 AI 生态、数据合规、人才画像、开源协作与证据自证的专项要求」，并以 provisional 边界声明数据缺口与重算口径。",
+   "proposal_sections": [
+    "AI 创新生态、人才画像与 AI+ 场景",
+    "风险、版权与合规说明",
+    "指标体系、面积复算与合规矩阵"
+   ],
+   "drawing_refs": [
+    "drawings/a3-booklet.pdf",
+    "drawings/a0-boards.pdf"
+   ],
+   "geometry_refs": [
+    "site_boundary.geojson",
+    "key_areas.geojson",
+    "land_use.geojson",
+    "buildings.geojson",
+    "roads.geojson",
+    "green_space.geojson",
+    "public_space.geojson",
+    "constraints.geojson",
+    "phasing.geojson"
+   ],
+   "metric_refs": [
+    "site_area_sqm",
+    "green_space_area_sqm",
+    "public_space_area_sqm",
+    "green_ratio",
+    "public_space_ratio",
+    "key_areas_total_sqm",
+    "building_count",
+    "road_length_km",
+    "building_footprint_area_sqm"
+   ],
+   "source_ids": [
+    "SRC-AGENT-TASKBOOK",
+    "SRC-COCREATION-CHARTER",
+    "SRC-AI-TALENT-REPORT"
+   ],
+   "assumption_ids": [
+    "A-AI-INDUSTRY-BENCHMARK",
+    "A-OPEN-DATA-SOURCES"
+   ],
+   "self_check_ids": [
+    "SC-DETERMINISTIC",
+    "SC-SPATIAL",
+    "SC-VISUAL",
+    "SC-PROFESSIONAL"
+   ]
+  },
+  {
+   "standard_id": "MOHURD-URBAN-DESIGN-MEASURES",
+   "requirement_zh": "城市设计管理办法关于公共空间、风貌与实施传导的要求",
+   "professional_dimension": "城市设计",
+   "review_status": "addressed",
+   "mandatory": true,
+   "evidence_summary_zh": "已在正文与几何/指标中落实「城市设计管理办法关于公共空间、风貌与实施传导的要求」，并以 provisional 边界声明数据缺口与重算口径。",
+   "proposal_sections": [
+    "蓝绿空间、公共空间与城市风貌",
+    "总体设计范围城市更新与控规深度城市设计"
+   ],
+   "drawing_refs": [
+    "drawings/a3-booklet.pdf",
+    "drawings/a0-boards.pdf"
+   ],
+   "geometry_refs": [
+    "green_space.geojson",
+    "public_space.geojson",
+    "land_use.geojson"
+   ],
+   "metric_refs": [
+    "green_space_area_sqm",
+    "public_space_area_sqm",
+    "green_ratio",
+    "public_space_ratio"
+   ],
+   "source_ids": [
+    "SRC-BEIJING-PLAN-2035",
+    "SRC-CLIMATE-NORMALS"
+   ],
+   "assumption_ids": [
+    "A-CLIMATE-NORMALS"
+   ],
+   "self_check_ids": [
+    "SC-DETERMINISTIC",
+    "SC-SPATIAL",
+    "SC-VISUAL",
+    "SC-PROFESSIONAL"
+   ]
+  },
+  {
+   "standard_id": "MOHURD-CONTROL-DETAILED-PLANNING",
+   "requirement_zh": "控制性详细规划编制深度（用地、强度、交通、设施）要求",
+   "professional_dimension": "控规深度",
+   "review_status": "addressed",
+   "mandatory": true,
+   "evidence_summary_zh": "已在正文与几何/指标中落实「控制性详细规划编制深度（用地、强度、交通、设施）要求」，并以 provisional 边界声明数据缺口与重算口径。",
+   "proposal_sections": [
+    "用地、建筑规模与拆改留方案",
+    "交通、轨道、市政与公共服务设施",
+    "总体设计范围城市更新与控规深度城市设计"
+   ],
+   "drawing_refs": [
+    "drawings/a3-booklet.pdf",
+    "drawings/a0-boards.pdf"
+   ],
+   "geometry_refs": [
+    "land_use.geojson",
+    "buildings.geojson",
+    "roads.geojson"
+   ],
+   "metric_refs": [
+    "site_area_sqm",
+    "building_footprint_area_sqm",
+    "road_length_km"
+   ],
+   "source_ids": [
+    "SRC-MOHURD-CONTROL-PLAN",
+    "SRC-TRANSIT-PLAN"
+   ],
+   "assumption_ids": [
+    "A-TRANSIT-LOAD",
+    "A-CAPACITY-ASSUMPTION"
+   ],
+   "self_check_ids": [
+    "SC-DETERMINISTIC",
+    "SC-SPATIAL",
+    "SC-VISUAL",
+    "SC-PROFESSIONAL"
+   ]
+  },
+  {
+   "standard_id": "MNR-LAND-USE-CLASSIFICATION-GUIDE",
+   "requirement_zh": "国土空间用地用海分类对用地代码与混合使用的约束",
+   "professional_dimension": "用地分类",
+   "review_status": "addressed",
+   "mandatory": true,
+   "evidence_summary_zh": "已在正文与几何/指标中落实「国土空间用地用海分类对用地代码与混合使用的约束」，并以 provisional 边界声明数据缺口与重算口径。",
+   "proposal_sections": [
+    "用地、建筑规模与拆改留方案",
+    "总体设计范围城市更新与控规深度城市设计"
+   ],
+   "drawing_refs": [
+    "drawings/a3-booklet.pdf",
+    "drawings/a0-boards.pdf"
+   ],
+   "geometry_refs": [
+    "land_use.geojson"
+   ],
+   "metric_refs": [
+    "site_area_sqm",
+    "green_ratio"
+   ],
+   "source_ids": [
+    "SRC-MNR-LAND-USE",
+    "SRC-OPEN-DATA"
+   ],
+   "assumption_ids": [
+    "A-OPEN-DATA-SOURCES"
+   ],
+   "self_check_ids": [
+    "SC-DETERMINISTIC",
+    "SC-SPATIAL",
+    "SC-VISUAL",
+    "SC-PROFESSIONAL"
+   ]
+  }
+ ]
+}
